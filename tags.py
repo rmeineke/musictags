@@ -1,50 +1,77 @@
 import os
+import sys
 from mutagen.id3 import ID3
+from mutagen.id3 import ID3NoHeaderError
 from mutagen import File
+import logging
 
 
-tags_found = []
-for root, dirs, files in os.walk('/home/robertm/music'):
-    for file in files:
-        if file.endswith('.mp3'):
-            f = os.path.join(root,file)
-            meta = ID3(f)
+def main():
+    # set up for logging
+    LEVELS = {'debug': logging.DEBUG,
+              'info': logging.INFO,
+              'warning': logging.WARNING,
+              'error': logging.ERROR,
+              'critical': logging.CRITICAL,
+              }
+    if len(sys.argv) > 1:
+        level_name = sys.argv[1]
+        level = LEVELS.get(level_name, logging.NOTSET)
+        logging.basicConfig(
+            format='%(asctime)s - %(levelname)-8s - %(message)s\n',
+            level=level,
+            datefmt='%Y-%m-%d %H:%M:%S'
+        )
 
-            if 'COMM::\x00\x00\x00' in meta.keys():
-                ftags = File(os.path.join(root, file))
-                comment = ftags.tags['COMM::\x00\x00\x00']
-                print(f'{f}\n>>{comment}<<\n')
-                # print(f'{f}\n{# meta.keys("COMM::\x00\x00\x00"")}\n\n')
+    logger = logging.getLogger(__name__)
+    logger.debug('Entering main')
 
-            for k in meta.keys():
-                if k not in tags_found:
-                    tags_found.append(k)
+    tags_found = []
+    for root, dirs, files in os.walk('/home/robertm'):
+        for file in files:
+            if file.endswith('.mp3'):
+                print(f'---------------------------------------------------------------------------')
+                f = os.path.join(root, file)
+                print(f'{f}')
+                try:
+                    meta = ID3(f)
+                    print(f'{meta.keys()}')
 
-print(f'{tags_found}')
+                    ftags = File(os.path.join(root, file))
 
-# (mutagen-Pn3LrErH) [20:08] robertm -- /home/robertm/programming/mutagen $ python tags.py >tags.out.txt
-# Traceback (most recent call last):
-#   File "tags.py", line 11, in <module>
-#     meta = ID3(f)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/id3/_file.py", line 77, in __init__
-#     super(ID3, self).__init__(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/id3/_tags.py", line 177, in __init__
-#     super(ID3Tags, self).__init__(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/_util.py", line 533, in __init__
-#     super(DictProxy, self).__init__(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/_tags.py", line 111, in __init__
-#     self.load(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/_util.py", line 169, in wrapper
-#     return func(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/_util.py", line 140, in wrapper
-#     return func(self, h, *args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/id3/_file.py", line 150, in load
-#     self._header = ID3Header(fileobj)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/_util.py", line 169, in wrapper
-#     return func(*args, **kwargs)
-#   File "/home/robertm/.local/share/virtualenvs/mutagen-Pn3LrErH/lib/python3.6/site-packages/mutagen/id3/_tags.py", line 66, in __init__
-#     raise ID3NoHeaderError("%r doesn't start with an ID3 tag" % fn)
-# mutagen.id3._util.ID3NoHeaderError: '/home/robertm/tmp/E4 On Fire.mp3' doesn't start with an ID3 tag
-# (mutagen-Pn3LrErH) [20:09] robertm -- /home/robertm/programming/mutagen $ ^C
-# (mutagen-Pn3LrErH) [20:14] robertm -- /home/robertm/programming/mutagen $ ^C
-# (mutagen-Pn3LrErH) [20:14] robertm -- /home/robertm/programming/mutagen $
+                    if 'COMM::\x00\x00\x00' in meta.keys():
+                        comment = ftags.tags['COMM::\x00\x00\x00']
+                        print(f'Comment: >>{comment}<<')
+
+                    if 'TRCK' in meta.keys():
+                        track = ftags.tags["TRCK"]
+                        print(f'{track}')
+
+                    if 'TCON' in meta.keys():
+                        tcon = ftags.tags["TCON"]
+                        print(f'{tcon}')
+
+                    if 'APIC:' in meta.keys():
+                        print(f'Found: APIC:')
+                    elif 'APIC:Cover Art' in meta.keys():
+                        print(f'Found: APIC:Cover Art')
+                    elif 'APIC:Front cover' in meta.keys():
+                        print(f'Found: APIC:Front cover')
+                    else:
+                        print(f'NOT FOUND:::APIC')
+
+                except ID3NoHeaderError as e:
+                    print(f' >>> {e} ')
+
+                for k in meta.keys():
+                    if k not in tags_found:
+                        tags_found.append(k)
+
+    print(f'****************************************************************************')
+    print(f'{sorted(tags_found)}')
+    # for tag in tags_found:
+    #     print(f'{tag} >> {type(tag)}')
+
+
+if __name__ == '__main__':
+    main()
