@@ -51,22 +51,31 @@ def main():
                         tcon = ftags.tags["TCON"]
                         print(f'{tcon}')
 
-                    if 'APIC:' in meta.keys():
-                        print(f'Found: APIC:')
-                    elif 'APIC:Cover Art' in meta.keys():
-                        print(f'Found: APIC:Cover Art')
-                    elif 'APIC:Front cover' in meta.keys():
-                        print(f'Found: APIC:Front cover')
-                    else:
-                        print(f'NOT FOUND:::APIC')
+                    print(f'{type(meta.keys())}')
+                    #
+                    # if 'APIC:' in meta.keys():
+                    #     print(f'Found: APIC:')
+                    # elif 'APIC:Cover Art' in meta.keys():
+                    #     print(f'Found: APIC:Cover Art')
+                    # elif 'APIC:Front cover' in meta.keys():
+                    #     print(f'Found: APIC:Front cover')
+                    # else:
+                    #     print(f'NOT FOUND:::APIC')
 
                 except ID3NoHeaderError as e:
                     print(f' >>> {e} ')
 
+                pic_found = 0
                 for k in meta.keys():
+                    print(f'{k}')
+                    if k.startswith('APIC'):
+                        pic_found = pic_found + 1
                     if k not in tags_found:
                         tags_found.append(k)
-
+                if pic_found:
+                    print(f'APIC found')
+                else:
+                    print(f'>>>>>>>>>>>> appears to be no pic here ?')
     print(f'****************************************************************************')
     print(f'{sorted(tags_found)}')
     # for tag in tags_found:

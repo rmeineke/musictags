@@ -6,3 +6,6 @@ tags = ['APIC:', 'APIC:120123_1_f.jpg', 'APIC:1330945683_cover.jpg', 'APIC:14.jp
 for tag in tags:
     if tag.startswith('APIC'):
         print(f'{tag}')
+
+for tag in tags:
+    print(f'{tag}')
