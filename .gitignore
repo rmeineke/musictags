@@ -1,2 +1,4 @@
 music/
 .idea/
+*.mp3
+__pycache__

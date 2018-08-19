@@ -6,6 +6,7 @@ from mutagen.id3 import ID3
 from mutagen.id3 import ID3NoHeaderError
 import mutagen.mp3
 
+
 def main():
     # set up for logging
     LEVELS = {'debug': logging.DEBUG,
@@ -39,15 +40,16 @@ def main():
                 print(f'{meta.keys()}')
                 data = ''
                 tags = mutagen.mp3.Open(f)
-                print(f'{tags}')
-                exit(0)
-                # for i in tags:
-                #     if i.startswith('APIC'):
-                #         data = tags[i].data
-                #         break;
-                # out = open('cover.jpg', 'wb')
-                # out.write(data)
-                # out.close()
+                # print(f'{tags}')
+                # exit(0)
+                for i in tags:
+                    if i.startswith('APIC'):
+                        print(f'found a data tag......')
+                        data = tags[i].data
+                        break;
+                out = open('cover.jpg', 'wb')
+                out.write(data)
+                out.close()
                 mp3 = MP3File(f)
 
                 print(f'{mp3.file}')
