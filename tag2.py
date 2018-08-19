@@ -2,7 +2,9 @@ import os
 import logging
 import sys
 from mp3file import MP3File
-
+from mutagen.id3 import ID3
+from mutagen.id3 import ID3NoHeaderError
+import mutagen.mp3
 
 def main():
     # set up for logging
@@ -24,15 +26,35 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    ttl_files = 0
     for root, dirs, files in os.walk('/home/robertm'):
         for file in files:
-            if file.endswith('.mp3'):
-                ttl_files += 1
+            if file.lower().endswith('.mp3'):
                 f = os.path.join(root, file)
+
+                try:
+                    meta = ID3(f)
+                except ID3NoHeaderError as e:
+                    print(f' >>> {e} ')
+
+                print(f'{meta.keys()}')
+                data = ''
+                tags = mutagen.mp3.Open(f)
+                print(f'{tags}')
+                exit(0)
+                # for i in tags:
+                #     if i.startswith('APIC'):
+                #         data = tags[i].data
+                #         break;
+                # out = open('cover.jpg', 'wb')
+                # out.write(data)
+                # out.close()
                 mp3 = MP3File(f)
-                print(f'{mp3.name}')
-    print(f'ttl_files == {ttl_files}')
+
+                print(f'{mp3.file}')
+
+    print(f'ttl files processed: {MP3File.ttl_files_processed}')
+    print(f'ttl file size: {MP3File.ttl_file_size:,}')
+
 
 if __name__ == '__main__':
     main()
