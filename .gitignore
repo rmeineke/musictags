@@ -2,3 +2,6 @@ music/
 .idea/
 *.mp3
 __pycache__
+*.jpg
+*.jpeg
+*.png

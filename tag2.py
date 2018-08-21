@@ -37,22 +37,25 @@ def main():
                 except ID3NoHeaderError as e:
                     print(f' >>> {e} ')
 
-                print(f'{meta.keys()}')
+                # print(f'{meta.keys()}')
                 data = ''
                 tags = mutagen.mp3.Open(f)
                 # print(f'{tags}')
                 # exit(0)
                 for i in tags:
                     if i.startswith('APIC'):
-                        print(f'found a data tag......')
+                        # print(f'found a data tag......')
                         data = tags[i].data
+                        if sys.getsizeof(data) > 150000:
+                            print(f'{sys.getsizeof(data):12,} ... {f}\n')
+                        # print(f'{sys.getsizeof(data)}')
+                        # out = open('cover.jpg', 'wb')
+                        # out.write(data)
+                        # out.close()
                         break;
-                out = open('cover.jpg', 'wb')
-                out.write(data)
-                out.close()
                 mp3 = MP3File(f)
 
-                print(f'{mp3.file}')
+                # print(f'{mp3.file}')
 
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
