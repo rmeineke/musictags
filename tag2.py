@@ -2,7 +2,7 @@ import os
 import logging
 import sys
 from mp3file import MP3File
-from mutagen.id3 import ID3
+from mutagen.id3 import ID3, TDRC
 from mutagen.id3 import ID3NoHeaderError
 import mutagen.mp3
 
@@ -31,18 +31,43 @@ def main():
         for file in files:
             if file.lower().endswith('.mp3'):
                 f = os.path.join(root, file)
-
+                print(f'******************************************************')
                 try:
                     meta = ID3(f)
                 except ID3NoHeaderError as e:
                     print(f' >>> {e} ')
 
-                # print(f'{meta.keys()}')
+                print(f'{meta.keys()}')
                 data = ''
                 tags = mutagen.mp3.Open(f)
                 # print(f'{tags}')
                 # exit(0)
                 for i in tags:
+                    if i == 'TIT2':
+                        st = 'song title: '
+                        print(f'{st:20} {tags[i]}')
+                        width = 30
+                        print(f'{st: <{width}}{tags[i]}')
+                    if i == 'TPE1':
+                        print(f'{tags[i]}')
+                    if i == 'TPE2':
+                        print(f'{tags[i]}')
+                    if i == 'TALB':
+                        print(f'{tags[i]}')
+                    if i == 'TPOS':
+                        print(f'{type(tags[i])}')
+                        print(f'{tags[i].text}')
+                    if i == 'TRCK':
+                        print(f'{tags[i]}')
+                    if i == 'TCON':
+                        print(f'{tags[i]}')
+                    if i == 'TCOM':
+                        print(f'{tags[i]}')
+                    if i == 'TCOP':
+                        print(f'tcop >{tags[i]}<')
+                    if i =='TDRC':
+                        print(f'tdrc >{tags[i]}<')
+
                     if i.startswith('APIC'):
                         # print(f'found a data tag......')
                         data = tags[i].data
@@ -63,3 +88,14 @@ def main():
 
 if __name__ == '__main__':
     main()
+#
+# tit2 - title/songname
+# tpe1 - Lead performer(s)/Soloist(s)
+# tpe2 - Band/orchestra/accompaniment
+# talb - album
+# tpos - part of a set
+# trck - track/position
+# tcon - content type
+# tcom - composer
+# tcop - copyright
+# tdrc - recording time
