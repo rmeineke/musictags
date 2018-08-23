@@ -2,7 +2,7 @@ import os
 import logging
 import sys
 from mp3file import MP3File
-from mutagen.id3 import ID3, TDRC
+from mutagen.id3 import ID3
 from mutagen.id3 import ID3NoHeaderError
 import mutagen.mp3
 
@@ -28,76 +28,45 @@ def main():
     logger.debug('Entering main')
 
     oversized_cover = 0
-    for root, dirs, files in os.walk('/home/robertm'):
+    for root, dirs, files in os.walk('/home/robertm/music'):
         for file in files:
             if file.lower().endswith('.mp3'):
                 f = os.path.join(root, file)
-                print(f'******************************************************')
                 try:
                     meta = ID3(f)
                 except ID3NoHeaderError as e:
                     print(f' >>> {e} ')
 
-                # print(f'{meta.keys()}')
                 data = ''
                 tags = mutagen.mp3.Open(f)
-                # print(f'{tags}')
-                # exit(0)
                 for i in tags:
-                    # if i == 'TIT2':
-                    #     st = 'song title: '
-                    #     print(f'{st:20} {tags[i]}')
-                    # if i == 'TPE1':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TPE2':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TALB':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TPOS':
-                    #     print(f'{type(tags[i])}')
-                    #     print(f'{tags[i].text}')
-                    # if i == 'TRCK':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TCON':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TCOM':
-                    #     print(f'{tags[i]}')
-                    # if i == 'TCOP':
-                    #     print(f'tcop >{tags[i]}<')
-                    # if i =='TDRC':
-                    #     print(f'tdrc >{tags[i]}<')
-
                     if i.startswith('APIC'):
-                        # print(f'found a data tag......')
+                        # print(f' # # # # # # # # # # # #')
                         data = tags[i].data
                         if sys.getsizeof(data) > 150000:
                             oversized_cover += 1
-                            print(f'{sys.getsizeof(data):12,} ... {f}\n')
-                        # print(f'{sys.getsizeof(data)}')
-                        # out = open('cover.jpg', 'wb')
-                        # out.write(data)
-                        # out.close()
+                            print(f'{sys.getsizeof(data)} ... {f}')
                         break;
                 mp3 = MP3File(f)
-
-                # print(f'{mp3.file}')
-
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
-    print(f'ttl oversized covers: {oversized_cover}')
-
+    print(f'ttl over sized covers: {oversized_cover}')
 
 
 if __name__ == '__main__':
     main()
+
 #
-# tit2 - title/songname
-# tpe1 - Lead performer(s)/Soloist(s)
-# tpe2 - Band/orchestra/accompaniment
-# talb - album
-# tpos - part of a set
-# trck - track/position
-# tcon - content type
-# tcom - composer
-# tcop - copyright
-# tdrc - recording time
+# ttl files processed: 5061
+# ttl file size: 42,943,464,128
+# ttl over sized covers: 560
+#
+# ttl files processed: 5061
+# ttl file size: 42,942,171,840
+# ttl over sized covers: 548
+# ttl files processed: 5061
+# # ttl file size: 42,932,568,362
+# # ttl over sized covers: 457
+# ttl files processed: 5061
+# ttl file size: 42,912,593,038
+# ttl over sized covers: 280

@@ -84,3 +84,27 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+ # if i == 'TIT2':
+                    #     st = 'song title: '
+                    #     print(f'{st:20} {tags[i]}')
+                    # if i == 'TPE1':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TPE2':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TALB':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TPOS':
+                    #     print(f'{type(tags[i])}')
+                    #     print(f'{tags[i].text}')
+                    # if i == 'TRCK':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TCON':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TCOM':
+                    #     print(f'{tags[i]}')
+                    # if i == 'TCOP':
+                    #     print(f'tcop >{tags[i]}<')
+                    # if i =='TDRC':
+                    #     print(f'tdrc >{tags[i]}<')
