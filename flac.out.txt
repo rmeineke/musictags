@@ -1,0 +1,1965 @@
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/12 - Speedway At Narzareth.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/15 - Going Home Local Hero.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/11 - Marbletown.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/03 - Privateering.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/06 - Laughs And Jokes And Drinks And Smokes.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/10 - Postcards From Paraguay.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/14 - So Far Away.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/08 - Romeo And Juliet.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/01 - Broken Bones.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/05 - Skydiver.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/02 - Corned Beef City.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/07 - She´s Gone Latest Trick.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/04 - Father And Son Hill Farmers Blues.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/09 - Sultans Of Swing.flac
+   230,655 --> /home/robertm/music/Knopfler, Mark/Live - Berkeley 2015.09.18/13 - Telegraph Road.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/11 - All That Matters.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/13 - Donegan's Gone.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/06 - Our ShangriLa.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/01 - 515 am.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/04 - The Trawlerman's Song.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/03 - Sucker Row.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/02 - Boom Like That.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/12 - Stand Up Guy.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/10 - Postcards From Paraguay.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/07 - Everybody Pays.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/05 - Back To Tupelo.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/14 - Don't Crash The Ambulance.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/09 - Whoop De Doo.flac
+   304,516 --> /home/robertm/music/Knopfler, Mark/Shangri-La/08 - Song For Sonny Liston.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/11 - Rdiger.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/13 - Done with Bonaparte.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/14 - Are We in Trouble Now.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/09 - I'm the Fool.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/08 - Cannibals.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/06 - Don't You Get It.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/10 - Je Suis Dsol.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/05 - Vic and Ray.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/07 - A Night in Summer Long Ago.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/02 - Imelda.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/03 - Golden Heart.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/12 - Nobody's Got the Gun.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/04 - No Can Do.flac
+   272,283 --> /home/robertm/music/Knopfler, Mark/Golden Heart/01 - Darling Pretty.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/09 - Life's Lessons.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/01 - My Love Will.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/03 - How Deep Does It Go.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/06 - Pieces Of A Heart.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/08 - Children Of A Lesser God.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/10 - Dance Of The Seven Veils.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/04 - You're The Reason.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/07 - If I Could.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/02 - Baby My Heart.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/05 - Hot Coffee.flac
+   268,643 --> /home/robertm/music/Anderson, Carl/Pieces Of A Heart/11 - Maiden Voyage.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/06 - Money Talks.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/07 - Never Should Have Told Me.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/09 - Another Day's Gone By.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/05 - Out In The Streets.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/10 - After All This Time.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/03 - Not Just Another Girl.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/02 - Primitive Man.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/04 - Falling Out Of Love.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/08 - Up To You.flac
+   169,927 --> /home/robertm/music/Neville, Ivan/If My Ancestors Could See Me Now/01 - Sun.flac
+   458,217 --> /home/robertm/music/Butler, Jonathan/Sarah Sarah/01 - Sarah Sarah.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/06 - Afrika.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/10 - Song For Jon.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/05 - Calm Before The Storm.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/07 - Thinking Of You.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/04 - 7th Avenue South.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/03 - Haunted By Your Love.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/01 - Baby Please Don't Take It.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/09 - Rumours.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/08 - Gentle Love.flac
+   529,133 --> /home/robertm/music/Butler, Jonathan/Introducing Jonathan Butler/02 - Crossroads Revisited.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/13 - Home Now.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/03 - Bathwater.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/06 - Artificial Sweetener.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/11 - Suspension Without Suspense.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/07 - Marry Me.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/04 - Six Feet Under.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/12 - Staring Problem.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/14 - Dark Blue.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/05 - Magic's in the Makeup.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/09 - Too Late.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/02 - Simple Kind of Life.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/01 - ExGirlfriend.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/10 - Comforting Lie.flac
+   198,472 --> /home/robertm/music/No Doubt/Return of Saturn/08 - New.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/04 - Making Out.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/10 - In My Head.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/01 - Intro.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/03 - Hey Baby  ft Bounty Killer.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/05 - Underneath It All  ft Lady Saw.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/02 - Hella Good.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/13 - Rock Steady.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/12 - Waiting Room ft Prince.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/09 - Running.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/07 - Don't Let Me Down.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/11 - Platinum Blonde Life.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/06 - Detective.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady/08 - Start the Fire.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady  Bonus Disk/01 - Underneath it All.flac
+   155,986 --> /home/robertm/music/No Doubt/Rock Steady  Bonus Disk/02 - Just a Girl.flac
+   303,132 --> /home/robertm/music/Harrell, Grady/Sticks and Stones/01 - Sticks and Stones (Edit).flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/10 - Dawn.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/04 - Natural Light.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/05 - Spectrum Suite.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/02 - Shared Vision.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/09 - Apollo's Lyre.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/07 - Threshold.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/12 - Farewell to Atlantis.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/11 - Recollections.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/03 - Thigh Ch'i.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/01 - Touch With Your Heart.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/08 - Hear to Eternity.flac
+   159,859 --> /home/robertm/music/Halpern, Steven/Among Friends/06 - Ivory Moon.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/05 - As We Live And Breathe.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/02 - Don't Tell Me  I Know.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/06 - On The Streets Of This Town.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/08 - Perfect Stranger.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/07 - Hope Faith And Love.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/03 - I Blinked Once.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/09 - Wait A Little Longer.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/10 - Search Your Heart.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/01 - Running On Love.flac
+   254,920 --> /home/robertm/music/Forbert, Steve/Streets Of This Town/04 - Mexico.flac
+   237,039 --> /home/robertm/music/Neville, Aaron/Tell It Like It Is Single/01 - Tell It Like It Is.flac
+   237,039 --> /home/robertm/music/Neville, Aaron/Tell It Like It Is Single/02 - There's Something On Your Mind.flac
+   279,119 --> /home/robertm/music/Ventures, The/Lil' Bit of Gold/02 - Hawaii FiveO.flac
+   279,119 --> /home/robertm/music/Ventures, The/Lil' Bit of Gold/03 - Perfidia.flac
+   279,119 --> /home/robertm/music/Ventures, The/Lil' Bit of Gold/01 - WalkDon't Run.flac
+   279,119 --> /home/robertm/music/Ventures, The/Lil' Bit of Gold/04 - Wipe Out.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/12 - A Moment For Michael Jasper.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/05 - Spring Song For Chet.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/04 - There Will Never Be Another You.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/13 - I Fall In Love Too Easily.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/03 - Philip.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/09 - I Never Knew.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/10 - What Is This Thing Called Love.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/11 - My L.A. Years.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/08 - Darn That Dream.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/06 - Santa Barbara.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/07 - You Stepped Out Of A Dream.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/01 - Tango Cool.flac
+   152,455 --> /home/robertm/music/Gioia, Ted and Mark Lewis/Tango Cool/02 - Laura.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/05 - Over My Head.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/07 - Say You Love Me.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/09 - World Turning.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/08 - Landslide.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/01 - Monday Morning.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/11 - I'm So Afraid.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/06 - Crystal.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/04 - Rhiannon.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/02 - Warm Ways.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/03 - Blue Letter.flac
+   287,825 --> /home/robertm/music/Fleetwood Mac/Fleetwood Mac/10 - Sugar Daddy.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/05 - Love That Burns.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/02 - I've Lost My Baby.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/12 - Trying So Hard to Forget.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/14 - Stop Messin' Round take 5.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/15 - I Held My Baby Last Night previously unissued.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/11 - Coming Home.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/09 - Evenin' Boogie.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/08 - If You Be My Baby.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/10 - Lazy Poker Blues.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/16 - Mystery Boogie previously unissued.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/13 - Stop Messin' Round takes 13.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/07 - Need Your Love Tonight.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/04 - Dust My Broom.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/06 - Doctor Brown.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/03 - Rollin' Man.flac
+   188,395 --> /home/robertm/music/Fleetwood Mac/Mr. Wonderful/01 - Stop Messin' Round take 4  master take wstudio talk remix.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/08 - Tuxedo Junction.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/06 - Sunrise Serenade.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/16 - A String Of Pearls.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/09 - American Patrol.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/11 - Stardust.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/05 - Don't Sit Under The Apple Tree (With Anyone Else But Me).flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/13 - Serenade In Blue.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/03 - In The Mood.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/07 - Chattanooga Choo Choo.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/04 - Pennsylvania 65000.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/15 - Juke Box Saturday Night.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/10 - (I've Got A Gal In) Kalamazoo.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/02 - Little Brown Jug.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/12 - St. Louis Blues March.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/14 - Perfidia.flac
+   314,002 --> /home/robertm/music/Miller, Glenn/Unforgettable, The/01 - Moonlight Serenade.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/07 - Meant For Each Other.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/02 - Touching Hearts.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/05 - You Don't Have To Be Alone.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/06 - Always With You.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/03 - One For Lilian.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/04 - Cielo Bailarin.flac
+   159,522 --> /home/robertm/music/Pore, Kenny/Together As One/01 - Hold It To The Light.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/03 - Last Train Home.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/04 - It's Just Talk.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/02 - So May It Secretly Begin.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/07 - In Her Family.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/06 - Distance.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/05 - Third Wind.flac
+   153,119 --> /home/robertm/music/Metheny, Pat Group/Still Life Talking/01 - Minuano Six Eight.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/07 - How You Win.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/09 - Lover Man.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/01 - Music for Your Neighborhood.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/08 - Your Silence.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/02 - Heaven.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/04 - Love for Sale.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/05 - Mariscos.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/06 - Never Really Knowing Why.flac
+   354,377 --> /home/robertm/music/Swift, Jude/Music for Your Neighborhood/03 - Cold.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/01 - Losing a Whole Year.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/09 - Good for You.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/04 - Jumper.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/14 - God of Wine.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/12 - The Background.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/03 - Semi-Charmed Life.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/07 - Thanks a Lot.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/06 - How's It Going to Be.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/08 - Burning Man.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/10 - London.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/11 - I Want You.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/02 - Narcolepsy.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/05 - Graduate.flac
+   353,079 --> /home/robertm/music/Third Eye Blind/Third Eye Blind/13 - Motorcycle Drive By.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/10 - Frayed Edges.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/02 - In Due Time.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/05 - Work At It.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/15 - Just Another Pretty Song.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/14 - Spliff.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/13 - Echoes.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/11 - For My Family.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/01 - When The Smoke Clears.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/12 - Fast Feet.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/09 - Straight Ahead.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/07 - Passion Like A Flame.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/06 - Out Of Order.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/03 - Quiet Dreaming.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/04 - No Time Soon.flac
+   270,337 --> /home/robertm/music/Crossing Point/Point Of No Return/08 - Slow And Steady.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/14 - Pretty Bird.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/07 - Darling Nellie.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/04 - Walking in My Sleep.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/01 - Cowboy Jim.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/09 - Let That Liar Alone.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/05 - Mama's Gonna Stay.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/11 - Train on the Island.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/08 - Farewell My Home.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/13 - I Hear a Sweet Voice Calling.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/06 - Won't You Come and Sing for Me.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/12 - Working Girl Blues.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/03 - Who's That Knocking.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/02 - James Alley Blues.flac
+   258,315 --> /home/robertm/music/Lewis, Laurie and the Right Hands/Hazel and Alice Sessions, The/10 - You'll Get No More of Me.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/03 - Necking With Sven.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/02 - Manresa.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/12 - Missing You.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/09 - Voices II.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/13 - Elvizon.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/05 - Princess.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/08 - Concertino.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/06 - E Presiso Perdoar.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/04 - Ain't No Sunshine.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/14 - Les Tres Golpas.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/10 - Lisa's Song.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/01 - Duende.flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/07 - P.M..flac
+   170,079 --> /home/robertm/music/Haque, Fareed/Manresa/11 - Kukla's Dance.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/03 - Baker Street.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/07 - Heaven Is Ten Zillion Light Years Away.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/10 - Lodi.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/11 - Not A Drop Of Rain.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/02 - American Tune.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/08 - Gimme A Little Sign.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/01 - Tougher Than The Rest.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/09 - Acadian Driftwood.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/04 - Hold On.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/05 - I Used To Be A King.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/12 - 'Til I Get It Right.flac
+   349,302 --> /home/robertm/music/Colvin, Shawn/Uncovered/06 - Private Universe.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/02-Dark Side Of The Street.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/12-Not I.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/08-Battlefield Of Love.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/11-Can't Stand It.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/03-Love One Another.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/04-Going Back To New Orleans.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/10-Sing Me Some Blues.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/07-Sweet Lady.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/01-All We Need Is Love.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/06-Jesus Got The Blues.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/05-No One Can Take Your Place.flac
+ 1,895,800 --> /home/robertm/music/McClain, Mighty Sam/Blues For The Soul/09-Mighty's Prayer.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/12 - Dancin To Teh Music Of Love.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/03 - Tlk To me Talk To Me.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/13 - This time I'm Gone For Good.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/05 - Why.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/09 - A Change Is Gonna Come.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/10 - Whatever It Takes.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/02 - Sweet Dreams.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/11 - Forgive And Forget.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/14 - I Just Came To Get My Baby Out Of Jail.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/08 - Pray.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/07 - In The Same Old Way.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/06 - Your Perfect Companion.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/04 - Fannie Mae.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/15 - The Blus Is Alright.flac
+   192,072 --> /home/robertm/music/McClain, Mighty Sam/Live In Japan/01 - Every Day I Have The Blues.flac
+no pic found: /home/robertm/music/Faure, Gabriel/Pavane - 2/06 - Pavane.flac
+   456,352 --> /home/robertm/music/Giddens, Rhiannon/Factory Girl/01 - That Lonesome Road.flac
+   456,352 --> /home/robertm/music/Giddens, Rhiannon/Factory Girl/02 - Mouth Music.flac
+   456,352 --> /home/robertm/music/Giddens, Rhiannon/Factory Girl/03 - Moonshiner's Daughter.flac
+   456,352 --> /home/robertm/music/Giddens, Rhiannon/Factory Girl/04 - Underneath the Harlem Moon.flac
+   456,352 --> /home/robertm/music/Giddens, Rhiannon/Factory Girl/05 - Factory Girl.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/04 - Heart Chart.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/01 - All Creation Sang.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/03 - Mists And Fog.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/07 - The Night Was Not Silent.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/06 - When All Is Said And Done.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/02 - Refuge.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/08 - If I Cry Before I Wake.flac
+   291,129 --> /home/robertm/music/Flauding, Ric/Refuge/05 - Heart Dancer.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/06 - Me Again.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/08 - She Good With Words.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/07 - Together.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/01 - Time Away.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/05 - It Comes As No Surprise.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/03 - It's Like Being With You.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/09 - By Myself.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/04 - Letters.flac
+   363,411 --> /home/robertm/music/Flauding, Ric/Letters/02 - Leslie.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/11 - C'est L'affaire.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/03 - Looks Like Rain.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/05 - Tapestry.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/08 - My Funny Valentine.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/01 - Time With You.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/07 - Light Up The Night.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/09 - Into The Heat.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/06 - Joy And Pain.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/04 - Sao Paulo.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/10 - The Easy Way Out.flac
+   345,942 --> /home/robertm/music/Stevens, Mike/Light Up The Night/02 - C'est L'affaire.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/01 - Samba de Orpheus.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/05 - Cast Your Fate to the Wind.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/02 - Manha de Carnaval.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/08 - Since I Fell for You.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/03 - O Nosso Amor.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/06 - Moon River.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/04 - Generique.flac
+   306,937 --> /home/robertm/music/Vince Guaraldi Trio/Jazz Impressions of Black Orpheus/07 - AlmaVille.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/01 - Strawberry Fields Forever.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/12 - Lady Madonna.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/07 - All You Need Is Love.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/09 - Hello Goodbye.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/02 - Penny Lane.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/14 - Revolution.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/04 - With A Little Help From My Friends.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/13 - Hey Jude.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/05 - Lucy In The Sky With Diamonds.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/06 - A Day In The Life.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/08 - I Am The Walrus.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/03 - Sgt. Pepper's Lonely Hearts Club Band.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/10 - The Fool On The Hill.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 1/11 - Magical Mystery Tour.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/03 - ObLaDi ObLaDa.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/07 - Old Brown Shoe.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/04 - Get Back.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/08 - Here Comes the Sun.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/06 - The Ballad of John and Yoko.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/11 - Octupus's Garden.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/14 - The Long and Winding Road.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/13 - Across the Universe.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/12 - Let It Be.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/10 - Something.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/01 - Back in the U.S.S.R..flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/02 - While My Guitar Gently Weeps.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/05 - Don't Let Me Down.flac
+   294,694 --> /home/robertm/music/Beatles, The/1967-1970 Disc 2/09 - Come Together.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/06 - Some Lessons.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/05 - Momma.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/01 - Wicked Ride.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/04 - Dont You Worry Baby.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/07 - Goodnite (bonus trk).flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/02 - Cry Wolf.flac
+   181,507 --> /home/robertm/music/Gardot, Melody/Some Lessons/03 - Down My Avenue.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/06 - Spirit of Light.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/02 - Knowing That I Have You.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/01 - Street Talk.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/04 - All Around You.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/05 - It's Clear To See.flac
+   416,727 --> /home/robertm/music/Axiom/Spirit of Light/03 - No Cause For Alarm.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/06-Red Light Kisses.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/02-Good Kisser.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/04-I Can Change.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/10-Hang On.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/03-Shame, Shame, Shame.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/08-You Are Free.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/01-Baby Don't Leave Me Alone With My Thoughts.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/05-Dude.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/09-Musta Been Something.flac
+   171,259 --> /home/robertm/music/Lake Street Dive/Free Yourself Up/07-Doesn't Even Matter Now.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/11-Can't Stop.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/04-Spectacular Failure.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/01-Godawful Things.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/03-Call Off Your Dogs.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/10-Mistakes.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/06-So Long.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/07-How Good It Feels.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/12-Saving All My Sinning.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/02-Close to Me.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/05-I Don't Care About You.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/09-Hell Yeah.flac
+   318,349 --> /home/robertm/music/Lake Street Dive/Side Pony/08-Side Pony.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/10 - Simple As That.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/09 - Naturally.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/02 - Stuck With You.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/07 - I Never Walk Alone.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/03 - Whole Lotta Lovin'.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/04 - Doing It All For My Baby.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/06 - I Know What I Like.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/08 - Forest For The Trees.flac
+no pic found: /home/robertm/music/Lewis, Huey and the News/Fore/05 - Hip To Be Square.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/06 - Carlos.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/10 - Armony.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/02 - Besame Mucho.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/03 - I Didn't Know What Time It Was.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/04 - Lanikai.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/09 - Monterey.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/07 - Hermosa.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/05 - Wave.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/01 - Up Late.flac
+   153,119 --> /home/robertm/music/Linsky, Jeff/Up Late/08 - Berimbau.flac
+   242,595 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes - Demos/Way Down.flac
+   242,595 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes - Demos/Changing.flac
+   242,595 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes - Demos/Those Were The Days.flac
+   242,595 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes - Demos/Last Rites 1.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/10 - One Thing.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/03 - Like Wine.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/02 - Wounded Love.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/09 - No Angel.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/11 - Changing.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/06 - Those Were The Days.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/07 - Gasoline.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/01 - Way Down.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/08 - I Live Alone.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/05 - Last Rites.flac
+   154,428 --> /home/robertm/music/Woodsmith, Celia/Cast Iron Shoes/04 - Sicily.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/04 - The First Time Ever I Saw Your Face.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/07 - Constant Billy (Oddington) - I'll Go Enlist (Sherborne).flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/01 - The Queen of Hearts.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/11 - To Make You Stay.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/05 - Flash Company.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/09 - Bonny May.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/02 - Blackleg Miner.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/10 - Sheepcrook and Black Dog.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/08 - Willie o' Winsbury.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/03 - The Gardener.flac
+   709,069 --> /home/robertm/music/Offa Rex/Queen of Hearts, The/06 - The Old Churchyard.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/04 - Breakout.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/06 - Whirlwind.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/05 - Body Wave.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/01 - Bob Goes to the Store.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/03 - Doubletake.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/02 - Freefall.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/08 - Guiltless.flac
+   410,913 --> /home/robertm/music/Spyro Gyra/Breakout/07 - Swept Away.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/06 - Love Is A Losing Game.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/07 - Tears Dry On Their Own.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/09 - Some Unholy War.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/04 - Just Friends.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/11 - Addicted.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/05 - Back To Black.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/10 - He Can Only Hold Her.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/03 - Me & Mr Jones.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/01 - Rehab.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/08 - Wake Up Alone.flac
+   382,947 --> /home/robertm/music/Winehouse, Amy/Back To Black/02 - You Know I'm No Good.flac
+   162,239 --> /home/robertm/music/Adele/25/09 - Million Years Ago.flac
+   162,239 --> /home/robertm/music/Adele/25/02 - Send My Love To Your New Lover.flac
+   162,239 --> /home/robertm/music/Adele/25/06 - Water Under The Bridge.flac
+   162,239 --> /home/robertm/music/Adele/25/11 - Sweetest Devotion.flac
+   162,239 --> /home/robertm/music/Adele/25/07 - River Lea.flac
+   162,239 --> /home/robertm/music/Adele/25/08 - Love In The Dark.flac
+   162,239 --> /home/robertm/music/Adele/25/03 - I Miss You.flac
+   162,239 --> /home/robertm/music/Adele/25/04 - When We Were Young.flac
+   162,239 --> /home/robertm/music/Adele/25/01 - Hello.flac
+   162,239 --> /home/robertm/music/Adele/25/05 - Remedy.flac
+   162,239 --> /home/robertm/music/Adele/25/10 - All I Ask.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/04 - Africa Bamba.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/06 - Do You Like the Way feat. Lauren Hill  CeeLo.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/07 - Maria Maria.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/10 - Wishing It Was feat. EagleEye Cherry.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/09 - Corazon Espinado feat. Man.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/05 - Smooth feat. Rob Thomas.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/01 - Da Le Yaleo.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/11 - El Farol.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/03 - Put Your Lights On feat. Everlast.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/13 - The Calling feat. Eric Clapton.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/12 - Primavera.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/02 - Love of My Life feat. Dave Mathews.flac
+   410,068 --> /home/robertm/music/Santana/Supernatural/08 - Migra.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/03 - Oye Como Va.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/04 - Incident at Neshabur.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/05 - Se a Cabo.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/06 - Mother's Daughter.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/01 - Singing Winds, Crying Beasts.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/09 - El Nicoya.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/02 - Black Magic Woman - Gypsy Queen.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/07 - Samba Pa Ti.flac
+   187,265 --> /home/robertm/music/Santana/Abraxas/08 - Hope You're Feeling Better.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/03 - Have You Forgotten Interlude.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/06 - Moments.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/01 - Overture.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/08 - Still Standing.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/05 - Saudade.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/11 - Reprise.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/04 - Shadows.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/10 - Have You Forgotten.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/09 - Castles.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/07 - Already There.flac
+   259,244 --> /home/robertm/music/Benoit, David/Shadows/02 - Over The Edge.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/07 - Wild Kids.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/09 - Seattle Morning.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/01 - Sailing Through The City.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/03 - Urban Daydreams.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/05 - Snow Dancing.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/06 - Safari.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/02 - Cloud Break.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/08 - Looking Back.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/04 - When The Winter's Gone Song For A Stranger.flac
+   162,265 --> /home/robertm/music/Benoit, David/Urban Daydreams/10 - As If I Could Reach Rainbows.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/06 - ReBach.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/02 - Shibuya Station.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/04 - Remembering What You Said.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/11 - Saturdays.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/08 - No Worries.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/07 - Sao Paulo.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/03 - The Key To You.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/05 - Once Running Free.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/01 - Every Step Of The Way.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/09 - I Just Can't Stop Loving You.flac
+   319,692 --> /home/robertm/music/Benoit, David/Every Step Of The Way/10 - Painted Desert.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/07 - Syrinx.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/05 - Pavane for a Ture Musical Prince.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/08 - Carnival Cortege for Flute and Piano.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/01 - Bach's Groove.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/02 - Adagio.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/06 - Bulgarian Boogie.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/03 - Sonatine for Flute and Piano.flac
+   208,389 --> /home/robertm/music/Voss Jazz - Freeflight/Freeflight/04 - Sonata No. 4 in C Major.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/12 - Champagne Charlie.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/05 - End Of The Line.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/04 - Chicago.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/08 - Live It Up.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/11 - Late Nighter.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/06 - Bud Heavy.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/07 - Cow And The Cream.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/02 - Big Jimmy.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/10 - Chickens Hate Heat.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/01 - Blue Money Grove.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/03 - Rollin' In Paradise.flac
+   375,192 --> /home/robertm/music/Moonsville Collective/Heavy Howl/09 - Nowhereville.flac
+   354,459 --> /home/robertm/music/Moonsville Collective/Moonsville IV/05 - Time Is Heavy.flac
+   354,459 --> /home/robertm/music/Moonsville Collective/Moonsville IV/04 - Five Armadillos.flac
+   354,459 --> /home/robertm/music/Moonsville Collective/Moonsville IV/03 - Bright Eyed Stranger.flac
+   354,459 --> /home/robertm/music/Moonsville Collective/Moonsville IV/01 - Her Eyes Used To Shine.flac
+   354,459 --> /home/robertm/music/Moonsville Collective/Moonsville IV/02 - 4th Street.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/08 - Moonsville Train.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/02 - Rum Runners.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/06 - Doin' Just Fine.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/09 - Bun In The Oven.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/04 - In My Mind.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/07 - Monday Somebody.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/05 - Ballad Of Popcorn Sutton.flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/10 - Doghouse Live (Bonus Track).flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/03 - Gone But Not Forgotten (Levon).flac
+   520,698 --> /home/robertm/music/Moonsville Collective/Cradle To The Grave/01 - Millionaires.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/03 - Rag Mama.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/05 - Long Black Veil.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/09 - Millionaires.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/06 - Rosary Jane.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/02 - Cigarettes, Whiskey And Wild Wild Women.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/07 - Pig In A Pen.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/01 - Cotton Fields.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/04 - Deep Elum Blues.flac
+   192,373 --> /home/robertm/music/Moonsville Collective/Salamander Sessions/08 - Wabash Cannonball.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/04 - Time Will Reveal.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/01 - Lot To Lose.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/05 - Writing On The Wall.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/08 - Hura Dura.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/07 - In The End.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/03 - Don't Cheat On Us.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/02 - Montego.flac
+   276,229 --> /home/robertm/music/Ron Robbins Ensemble/Skyward/06 - Mr. J.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/04 - Flight of the Cosmic Hippo.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/01 - Blubop.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/02 - Flying Saucer Dudes.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/05 - The Star Spangled Banner.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/06 - Star of the County Down.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/08 - Michelle.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/07 - Jekyll and Hyde (and Ted and Alice).flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/03 - Turtle Rock.flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/10 - Flight of the Cosmic Hippo (reprise).flac
+   216,526 --> /home/robertm/music/Fleck, Bela/Flight of the Cosmic Hippo/09 - Hole in the Wall.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/07 - Intro.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/12 - Tearing at the Seams.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/01 - Shoe Boot.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/10 - You Worry Me.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/05 - Hey Mama.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/08 - Coolin' Out.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/13 - I'll Be Damned.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/02 - Be There.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/11 - Still Out There Running.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/06 - Babe I Know.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/14 - Boiled Over.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/04 - Say It Louder.flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/09 - Baby I Lost My Way, (But I'm Going Home).flac
+ 1,062,121 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Tearing at the Seams (Deluxe Edition)/03 - A Little Honey.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/01 - I Need Never Get Old.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/09 - Shake.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/10 - I’d Be Waiting.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/05 - S.O.B..flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/07 - Thank You.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/11 - Mellow Out.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/03 - Trying So Hard Not To Know.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/08 - Look It Here.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/02 - Howling At Nothing.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/04 - I’ve Been Failing.flac
+   462,137 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/Nathaniel Rateliff and The Night Sweats/06 - Wasting Time.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/13 - When You're Here.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/09 - Whimper And Wail.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/17 - You Make All The Noise.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/04 - Brakeman.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/05 - Longing And Losing.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/08 - You Should've Seen The Other Guy.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/12 - A Lamb On The Stone.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/02 - Early Spring Till.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/01 - Once In A Great While.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/07 - Shroud.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/11 - When We Could.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/14 - Happy Just To Be.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/10 - Boil and Fight.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/06 - Oil and Lavender.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/15 - Laughing.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/16 - Pounds And Pounds.flac
+ 2,955,075 --> /home/robertm/music/Rateliff, Nathaniel and The Night Sweats/In Memory Of Loss (Deluxe Edition)/03 - We Never Win.flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/15 - Malaya! (My Destiny).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/09 - K'arawi (Planting Song).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/10 - Cumbe-Maita (Calls Of The Andes).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/06 - Wayra (Dance Of The Winds).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/07 - Monos (Monkeys).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/12 - Incacho (Royal Anthem).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/04 - Tumpa (Earthquake).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/05 - Choladas (Dance Of The Moon Festival).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/01 - Taita Inty (Virgin Of The Sun God).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/13 - Cuncho (The Forest Creatures).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/16 - Ripui (Farewell).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/08 - Xtabay (Lure Of The Unknown Love).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/02 - Ataypura (High Andes).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/03 - Accla Taqui (Chant Of The Chosen Maidens).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/11 - Wak'ai (Cry).flac
+   229,328 --> /home/robertm/music/Sumac, Yma/Voice Of The Xtabay/14 - Llulla Mak'ta (Andean Don Juan).flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/11 - Biscuits And Gravy.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/08 - Love Left The Building.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/01 - Josephine.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/03 - Already Gone.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/07 - Santa Fe.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/02 - Raleigh.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/06 - Thank You Nice Lady.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/10 - If We Only Knew How.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/12 - Done Changed My Way Of Living.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/04 - Big League Dreams.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/05 - Strong Believer.flac
+   300,813 --> /home/robertm/music/Jacobs-Strain, David/Live/09 - Give Your Love Away.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/04 - Lonesome Whistle.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/09 - Gospel Shoes.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/07 - My Blinded Heart.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/03 - Picking Up Pieces.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/01 - Hey Stranger.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/10 - Take This Heart of Gold.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/08 - Hard Travelin'.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/02 - Wildfire.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/05 - Echo.flac
+ 1,512,797 --> /home/robertm/music/Mandolin Orange/Blindfaller/06 - Cold Lover's Waltz.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/09 - Daylight.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/05 - From Now On.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/03 - Little Worlds.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/02 - Settled Down.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/01 - Old Ties And Companions.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/10 - Of Which There Is No Like.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/08 - Blue Ruin.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/07 - That Wrecking Ball.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/04 - Rounder.flac
+   324,123 --> /home/robertm/music/Mandolin Orange/Such Jubilee/06 - Jump Mountain Blues.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/10 - Farewell To Altamira.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/09 - Glory Of The Cave.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/01 - Altamira.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/04 - By The Grave.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/07 - Farewell To The Bison.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/06 - Marcelino’s Despair.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/08 - This Is Science.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/02 - Maria.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/03 - Dream Of The Bison.flac
+   341,177 --> /home/robertm/music/Altamira/Altamira/05 - Onward.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/11 - A Ghost Whispers.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/10 - Yarrow.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/08 - Visiting.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/12 - I'd Rather Be the Devil.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/09 - Camp Meeting on the 4th of July - May Day.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/05 - Gibson Town.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/06 - The New Homeplace.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/03 - Love of the City.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/07 - Shale Town.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/02 - Wondrous Love - Lay Aside Your Crown.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/04 - Come All Ye Fair and Tender Ladies.flac
+   158,271 --> /home/robertm/music/Red Tail Ring/Fall Away Blues/01 - Fall Away Blues.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/01 - Hey Little Birdie.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/05 - Mercy.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/11 - Heard A Little Story.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/08 - The Farm.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/09 - Noah's Lullaby.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/04 - Ratko's Waltz.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/06 - A Different Tune.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/10 - O' Sunk.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/07 - Wait A While.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/02 - If You'll Be Mine.flac
+   240,457 --> /home/robertm/music/Lindsay Lou and The Flatbellys/A Different Tune/03 - Sycamore Tree.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/02 - The Voice.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/01 - Roll With Me.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/03 - Southland.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/07 - Go There Alone.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/10 - Magic Man.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/09 - Simple & Sober.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/06 - Satellite.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/04 - The River That I Knew.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/08 - Sugar.flac
+   359,820 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Southland/05 - Shining In The Distance.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/06 - Sometimes.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/05 - Old Song.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/03 - Interlude.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/09 - The River Jordan.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/08 - House Together.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/04 - The Fix.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/07 - Criminal Style.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/11 - Ionia.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/12 - Smooth And Groovy.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/10 - Here Between.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/02 - Everything Changed.flac
+   302,506 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Ionia/01 - Hot Hands.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/02 - My Side of the Mountain.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/01 - Hat's Off.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/12 - All Day.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/06 - Querida Tierra.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/09 - Barbarossa.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/07 - The Leaves are Changin'.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/10 - The Power.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/11 - Lemon Squeezy.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/03 - Tied Down to You.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/13 - The Petroff Line.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/05 - Pass Me the Whiskey.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/08 - Wonderful You Are.flac
+   401,660 --> /home/robertm/music/Lindsay Lou and The Flatbellys/Release Your Shrouds/04 - Leaves and Pods.flac
+   323,339 --> /home/robertm/music/A Chorus Line/10 - What I Did For Love.flac
+   323,339 --> /home/robertm/music/A Chorus Line/06 - Nothing.flac
+   323,339 --> /home/robertm/music/A Chorus Line/05 - Hello Twelve Hello Thirteen Hello Love.flac
+   323,339 --> /home/robertm/music/A Chorus Line/07 - The Music And The Mirror.flac
+   323,339 --> /home/robertm/music/A Chorus Line/02 - I Can Do That.flac
+   323,339 --> /home/robertm/music/A Chorus Line/11 - One Reprise Finale.flac
+   323,339 --> /home/robertm/music/A Chorus Line/01 - I Hope I Get It.flac
+   323,339 --> /home/robertm/music/A Chorus Line/08 - Dance Ten Looks Three.flac
+   323,339 --> /home/robertm/music/A Chorus Line/04 - Sing.flac
+   323,339 --> /home/robertm/music/A Chorus Line/09 - One.flac
+   323,339 --> /home/robertm/music/A Chorus Line/03 - At The Ballet.flac
+   883,618 --> /home/robertm/music/Chess/12 - Nobody's Side.flac
+   883,618 --> /home/robertm/music/Chess/21 - Endgame.flac
+   883,618 --> /home/robertm/music/Chess/04 - How Many Women.flac
+   883,618 --> /home/robertm/music/Chess/03 - Where I Want to Be.flac
+   883,618 --> /home/robertm/music/Chess/22 - You and I Reprise.flac
+   883,618 --> /home/robertm/music/Chess/10 - One Night in Bangkok.flac
+   883,618 --> /home/robertm/music/Chess/13 - Anthem.flac
+   883,618 --> /home/robertm/music/Chess/20 - Lullaby Apukad Eros Kezen.flac
+   883,618 --> /home/robertm/music/Chess/07 - You Want to Lose Your Only Friend.flac
+   883,618 --> /home/robertm/music/Chess/19 - Pity the Child.flac
+   883,618 --> /home/robertm/music/Chess/01 - Prologue.flac
+   883,618 --> /home/robertm/music/Chess/08 - Someone Else's Story.flac
+   883,618 --> /home/robertm/music/Chess/05 - Chess Hymn.flac
+   883,618 --> /home/robertm/music/Chess/18 - I Know Him So Well.flac
+   883,618 --> /home/robertm/music/Chess/06 - Quartet a Model of Decorum and Tranquilty.flac
+   883,618 --> /home/robertm/music/Chess/14 - Hungarian Folk Song.flac
+   883,618 --> /home/robertm/music/Chess/16 - No Contest.flac
+   883,618 --> /home/robertm/music/Chess/02 - Story of Chess The.flac
+   883,618 --> /home/robertm/music/Chess/11 - Terrace Duet.flac
+   883,618 --> /home/robertm/music/Chess/17 - You and I.flac
+   883,618 --> /home/robertm/music/Chess/09 - One Night in Bangkok Intro.flac
+   883,618 --> /home/robertm/music/Chess/15 - Heaven Help My Heart.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/05 - All The Love In The World.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/14 - Hurt Before.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/18 - What Can I Do Live Acoustic Version.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/12 - Rain.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/15 - Rebel Heart.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/08 - One Night.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/16 - Head In The Air.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/17 - Judy.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/03 - Somebody For Someone.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/04 - Say.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/11 - No More Cry.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/10 - At Your Side.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/07 - Irresistible.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/13 - Give It All Up.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/06 - Radio.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/02 - Give Me A Reason.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/01 - Breathless.flac
+   251,486 --> /home/robertm/music/Corrs, The/In Blue/09 - All In A day.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/09 - Written in the Wind.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/10 - Walk Like An Emu.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/06 - Tippin'.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/08 - Harvest Dance.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/11 - Someone Said.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/07 - Being With You.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/05 - Premonition.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/02 - Your Eyes.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/03 - Blue Space.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/12 - Backstep.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/01 - Voices of the Heart.flac
+   366,859 --> /home/robertm/music/Marienthal, Eric/Voices Of The Heart/04 - Brazilian Dream.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/08 - The Road Goes On.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/02 - Moonwalk.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/01 - Round Trip.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/05 - Reunion.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/10 - Serengeti.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/07 - Leeann.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/06 - Afrique.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/04 - It's Better Than Nothing.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/11 - Crash Test Dummies.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/09 - I'll Be Home Soon.flac
+   217,184 --> /home/robertm/music/Marienthal, Eric/Round Trip/03 - I'm Gonna Wait On Your Love.flac
+   235,557 --> /home/robertm/music/Jenkees, Ronald/Ronald Jenkees - Try The Bass.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/09 - John Beasley  Anyone Can See.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/07 - David Benoit  Song For Suzy.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/03 - Bill Meyers  Don't Give Up The Groove.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/10 - Bill Meyers  Evolution.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/04 - Clydene Jackson Edwards John Beasley  My HeartSays Come On In.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/06 - Los Angeles Mass Choir  Life Is What You Make It.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/02 - Bill Champlin  Time Will Bring You Love.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/08 - Bill Champlin  Good Friends.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/05 - David Benoit  Things Change.flac
+   483,098 --> /home/robertm/music/Usual Suspects, The/Usual Suspects, The/01 - John Beasley  Are You Scary.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/06 - My Heart Belongs to You.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/04 - Love Shouldn't Hurt So.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/10 - Eye To Eye.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/11 - Life After Love.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/07 - Fiesta.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/09 - You Got Me Goin'.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/03 - AyAyAy(Si Papi).flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/08 - Imagination.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/05 - One More Kiss.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/12 - Sweetest Poison.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/02 - Creatures of The Night.flac
+   433,929 --> /home/robertm/music/Ileana/Ileana/01 - Dream On.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/03 - Positive Reflection.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/08 - Still.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/01 - One Moment.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/02 - Louise.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/07 - Through Tears....flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/04 - Damacine.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/05 - Enduring Love.flac
+   343,414 --> /home/robertm/music/Abacaxi/Damacine/06 - Remembrance.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/04 - I Don't Want To Leave You Alone Anymore.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/05 - Spellbound.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/06 - Sweet Rum And Starlight.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/08 - Message To Michael.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/07 - Dream Come True.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/02 - Doc.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/01 - If It's In Your Heart It's In Your Smile.flac
+   327,897 --> /home/robertm/music/Klugh, Earl/Dream Come True/03 - Amazon.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/04-In Six.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/14-Morning Rain.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/02-Lullaby Of Birdland.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/12-If I Fell.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/11-Going Out Of My Head.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/13-Where The Wind Takes Me.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/01-Alfie.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/06-Hotel California (Duet with Jake Shimabukuro).flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/16-This Time (Solo).flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/09-But Beautiful.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/03-Blue Moon (Duet with Bill Frisell).flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/05-Cast Your Fate To The Wind.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/08-'Round Midnight.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/07-More And More Amor.flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/10-All I Have To Do Is Dream (Duet with Vince Gill).flac
+   516,812 --> /home/robertm/music/Klugh, Earl/HandPicked/15-Love Is A Many Splendored Thing.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/07 - The Only One For Me.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/03 - All The Time.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/01 - Wishful Thinking.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/08 - Right From The Start.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/02 - Tropical Legs.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/06 - Take It From The Top.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/04 - A Natural Thing.flac
+   354,857 --> /home/robertm/music/Klugh, Earl/Wishful Thinking/05 - Once Again.flac
+   307,573 --> /home/robertm/music/Crawford, Randy/Knockin' On Heaven's Door/01 - Knockin' on Heaven's Door.flac
+   307,573 --> /home/robertm/music/Crawford, Randy/Knockin' On Heaven's Door/02 - The Shipyard and Knockin' on Heaven's Door.flac
+   307,573 --> /home/robertm/music/Crawford, Randy/Knockin' On Heaven's Door/03 - Almaz.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/03 - Mile on the Moon.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/06 - Simple Twist of Fate.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/11 - Rearrange the Art.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/08 - Gone Too Soon.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/04 - Build Me Up from Bones.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/09 - Anything Else.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/10 - The Book of RightOn.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/01 - Over the Edge.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/02 - Fuel the Fire.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/05 - Dark Road.flac
+   203,988 --> /home/robertm/music/Jarosz, Sarah/Build Me Up from Bones/07 - 1000 Things.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/10 - Still Life.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/11 - Jacqueline.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/01 - Early Morning Light.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/03 - House Of Mercy.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/09 - Take Me Back.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/02 - Green Lights.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/07 - Take Another Turn.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/05 - Back Of My Mind.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/04 - Everything To Hide.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/06 - Comin' Undone.flac
+   196,881 --> /home/robertm/music/Jarosz, Sarah/Undercurrent/08 - Lost Dog.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/13 - The Parting Glass.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/09 - Ten Mile Stilts.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/03 - Arlington.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/06 - This Is Where.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/11 - Take It Down.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/10 - Come All You Sailors.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/05 - Untitled.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/02 - Saucy Sailor.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/12 - Something to Hold Onto.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/01 - One Voice.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/04 - Beautiful Dawn.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/07 - Old Man.flac
+   442,750 --> /home/robertm/music/Wailin' Jennys, The/40 Days/08 - Heaven When We're Home.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/11 - She's An Angel.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/07 - Toddler Hiway.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/15 - Chess Piece Face.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/13 - Boat Of Car [Feat. Margaret Seiler].flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/02 - Put Your Hand Inside The Puppet Head.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/09 - Nothing's Gonna Change My Clothes.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/12 - Youth Culture Killed My Dog.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/08 - Rabid Child.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/03 - Number Three.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/04 - Don't Let's Start.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/01 - Everything Right Is Wrong Again.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/17 - Alienation's For The Rich.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/18 - The Day.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/06 - 32 Footsteps.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/14 - Absolutely Bill's Mood.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/16 - I Hope That I Get Old Before I Die.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/05 - Hide Away Folk Family.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/10 - (She Was A) Hotel Detective.flac
+   685,783 --> /home/robertm/music/They Might Be Giants/They Might Be Giants/19 - Rhythm Section Want Ad.flac
+   166,655 --> /home/robertm/music/They Might Be Giants/They'll Need A Crane/02 - It's Not My Birthday.flac
+   166,655 --> /home/robertm/music/They Might Be Giants/They'll Need A Crane/01 - They'll Need A Crane.flac
+   166,655 --> /home/robertm/music/They Might Be Giants/They'll Need A Crane/04 - Nightgown Of The Sullen Moon.flac
+   166,655 --> /home/robertm/music/They Might Be Giants/They'll Need A Crane/03 - I'll Sink Manhattan.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/01 - Majesty.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/02 - Good Lookin'.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/07 - Reggae de American Babies.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/03 - Danger.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/08 - One More Soldier.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/10 - Sadie.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/06 - Mongolia.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/05 - Julie Ann.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/04 - Electric Man.flac
+   183,814 --> /home/robertm/music/Grusin, Don/10K LA/09 - The Dance.flac
+no pic found: /home/robertm/music/Simply Red/If You Don't Know Me By Now [CD Single]/04 - Sugar Daddy.flac
+no pic found: /home/robertm/music/Simply Red/If You Don't Know Me By Now [CD Single]/01 - If You Don't Know Me By Now.flac
+no pic found: /home/robertm/music/Simply Red/If You Don't Know Me By Now [CD Single]/03 - Shine.flac
+no pic found: /home/robertm/music/Simply Red/If You Don't Know Me By Now [CD Single]/02 - Move On Out.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/07 - Everything Is Awful.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/08 - Sucker's Prayer.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/10 - Rusalka, Rusalka - Wild Rushes.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/01 - Once In My Life.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/09 - We All Die Young.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/11 - I'll Be Your Girl.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/03 - Severed.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/05 - Tripping Along.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/06 - Your Ghost.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/04 - Starwatcher.flac
+ 3,283,460 --> /home/robertm/music/Decemberists, The/I'll Be Your Girl/02 - Cutting Stone.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/06 - Original Rays.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/07 - My One And Only Love.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/01 - Sea Glass.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/04 - Nothing Personal.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/03 - Choices.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/05 - The Cost Of Living.flac
+   182,044 --> /home/robertm/music/Brecker, Michael/Michael Brecker/02 - Syzygy.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/03 - She Hates To Go Home.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/07 - Live It Up.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/09 - Whatever Way The Wind Blows.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/05 - Radio Girl.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/04 - Someplace Where Love Can't Find Me.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/06 - On The Run.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/08 - Some Hearts.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/10 - Let Her Dance.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/01 - You Should've Been There.flac
+   205,232 --> /home/robertm/music/Crenshaw, Marshall/Good Evening/02 - Valerie.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/01 - Here To Love You.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/06 - Open Your Eyes.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/04 - Dependin' On You.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/02 - What A Fool Believes.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/03 - Minute By Minute.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/07 - Sweet Feelin'.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/10 - How Do The Fools Survive.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/05 - Don't Stop To Watch The Wheels.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/08 - Steamer Lane Breakdown.flac
+   262,838 --> /home/robertm/music/Doobie Brothers, The/Minute By Minute/09 - You Never Change.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/05 - Sweetness.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/04 - Your House.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/09 - Cautioners.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/03 - The Middle.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/07 - If You Don't Don't.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/01 - Bleed American.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/08 - Get It Faster.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/11 - My Sundown.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/02 - A Praise Chorus.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/10 - The Authority Song.flac
+   545,552 --> /home/robertm/music/Jimmy Eat World/Bleed American/06 - Hear You Me.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/06 - Kaleidoscope.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/05 - Las Estacas.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/03 - Through The Looking Glass.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/04 - Lunar Love.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/01 - Chelsea After Dark.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/02 - The Clockwinder.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/07 - Trail of Tears.flac
+   268,618 --> /home/robertm/music/Mann, David/Insight/08 - Nuclear Bebop.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/03 - Crystal Bay.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/05 - Sand Castles.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/10 - Solitude.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/04 - Rainbow Reflections.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/06 - Polaris.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/02 - Pacific Dreams.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/07 - Twilight Calm.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/08 - Moontide.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/09 - Sandpiper.flac
+   286,778 --> /home/robertm/music/Cansler, Larry/Pacific Dreams/01 - Wind Waves.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/05 - Magic.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/01 - Rituals.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/08 - Cherry High.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/02 - I Shot The Sherriff.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/04 - Between Two Blue Moons.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/06 - Lolita's Room.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/07 - Black Panther.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/09 - Drala.flac
+   400,179 --> /home/robertm/music/Colina, Michael/Rituals/03 - Shambhala.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/11 - The Hurtin' Never Felt So Good.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/03 - After Hello.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/07 - Fried Apricot Pies.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/01 - The Blackest Crow Pt. 1.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/08 - Wherever We Are.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/12 - The Blackest Crow Pt. 2.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/04 - Up With The Sun.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/02 - California Here We Are.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/06 - Everyone Else But You.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/05 - Everything I Have Was Given To Me.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/10 - The Fall.flac
+   287,439 --> /home/robertm/music/Show Ponies, The/Here We Are/09 - Web Weave.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/10 - Bellagio.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/01 - Guitarland.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/07 - Drive.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/03 - Soul Dance.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/05 - Boys of Summer.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/09 - East River Drive.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/08 - Cool In The Shade.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/02 - Villa By The Sea.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/06 - Anywhere Near You.flac
+   221,967 --> /home/robertm/music/Freeman, Russ/Drive/04 - Brighter Day.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/08 - Slippin' Away II.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/05 - Tandoori.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/02 - Gone Buttlefishin'.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/01 - Caesar.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/03 - She.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/07 - E Minor Shuffle.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/04 - L'Daddy.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/06 - Borealis.flac
+   647,769 --> /home/robertm/music/Howard, James Newton/James Newton Howard and Friends/09 - Amuseum.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/06 - Inspiration.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/08 - Djobi Djoba.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/07 - A Mi Manera (Comme d'Habitude).flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/01 - Bamboleo.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/04 - Bem Bem Maria.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/09 - Faena.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/02 - Tu Quieres Volver.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/05 - Un Amor.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/03 - Moorea.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/12 - Duende.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/11 - Amor Amor.flac
+   381,952 --> /home/robertm/music/Gipsy Kings/Gipsy Kings/10 - Quiero Saber.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/04 - Polk County.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/11 - Blessed Hands.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/02 - Sweet Verona.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/09 - Down to You.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/08 - Aged Pine.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/06 - The Most.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/01 - Jamie Dear.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/03 - Aberdeen.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/10 - From the Bottle.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/07 - Bowling Green.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/12 - Ballad of a Lonely Woman.flac
+   155,359 --> /home/robertm/music/Della Mae/I Built This Heart/05 - My Heart's Own Love.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/03 - Love Lips.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/06 - Winding River.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/01 - Kari.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/04 - Mallorca.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/02 - The Afterglow.flac
+   264,384 --> /home/robertm/music/James, Bob/One on One/05 - I'll Never See You Smile Again.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/08 - for no one.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/11 - when a heart breaks down.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/05 - when i'm at your house.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/06 - living in a beautiful day.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/04 - mego.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/10 - wonder of the world.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/01 - broken stemmed tenderness.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/07 - imaginary friend.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/03 - double rainbow.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/09 - lily- song for edith wharton and lily bart.flac
+   399,881 --> /home/robertm/music/Wainwright Roche, Lucy/Fairytale and Myth/02 - everyone wants to be loved.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/04 - Mary.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/06 - Mud and Apples.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/07 - Bleecker Street.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/08 - There's a Guy.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/11 - Landslide.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/09 - Both Sides Now.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/05 - Rhythm of the Rain.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/01 - Cold October Day.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/10 - Dinner Out.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/03 - Melancholy Ways.flac
+   174,119 --> /home/robertm/music/Wainwright Roche, Lucy/Mud  Apples/02 - Desparado.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/03 - There'll Be Some Changes Made.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/08 - Tahitian Skies.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/01 - Poor Boy Blues.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/02 - Sweet Dreams.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/10 - The Next Time I'm in Town.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/09 - I'll See You in My Dreams.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/06 - Yakety Axe.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/05 - So Soft Your Goodbye.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/04 - Just One Time.flac
+   168,978 --> /home/robertm/music/Atkins, Chet/Neck and Neck/07 - Tears.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/04 - A Mouse in the House.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/02 - Please Stay Tuned.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/09 - Tap Room.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/10 - If I Should Lose You.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/06 - The Cricket Ballet.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/01 - Sunrise.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/03 - Quiet Eyes.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/08 - The Boot and the Stone.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/07 - Cosmic Square Dance.flac
+   462,594 --> /home/robertm/music/Atkins, Chet/Stay Tuned/05 - Some Leather and Lace.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/05 - Mirage.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/02 - She Likes to Watch.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/03 - Angela.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/08 - Intimate Strangers.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/06 - Calypso Cafe.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/01 - Moonlighting.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/07 - Open All Night.flac
+   200,840 --> /home/robertm/music/Rippingtons, The/Moonlighting/04 - Dreams.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/10 - Victoria's Secret.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/04 - Kenya.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/03 - I Watched Her Walk Away.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/06 - Tropic Of Capricorn.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/09 - Passion Fruit.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/02 - Wednesday's Child.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/05 - Affair In San Miguel.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/07 - Who's Holding Her Now.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/08 - Soul Mates.flac
+   597,324 --> /home/robertm/music/Rippingtons, The/Welcome To The St. James' Club/01 - Welcome To The St. James' Club.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/06 - Dreamcatcher.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/03 - Flamenco Beach.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/08 - Kings Road.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/07 - Wonderland.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/04 - My Promise To You.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/02 - Sundance.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/01 - Wild Tales.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/10 - True Stories.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/09 - Golden Child.flac
+   440,404 --> /home/robertm/music/Rippingtons, The/True Stories/05 - Reach Higher.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/05 - Earthbound.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/01 - Tourist In Paradise.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/09 - The Princess.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/07 - One Ocean Way.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/03 - Aruba.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/08 - Destiny.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/02 - Jupiter's Child.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/04 - One Summer Night In Brazil.flac
+   296,993 --> /home/robertm/music/Rippingtons, The/Tourist In Paradise/06 - Let's Stay Together.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/07 - Bon Soir Dame.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/08 - There's A Time For Everything.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/10 - Our Love Is A Living Thing.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/01 - My Cup Runneth Over.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/05 - Watch What Happens.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/09 - True Love.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/02 - In The Arms Of Love.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/06 - Melinda.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/04 - Don't Blame Me.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/11 - Edelweiss.flac
+   197,531 --> /home/robertm/music/Ames, Ed/My Cup Runneth Over/03 - Au Revoir.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/09 - Shelton's Dance.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/04 - Let Me Know.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/06 - Brother Rob.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/01 - Puerto Nuevo.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/05 - Marcosa.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/03 - Joyaneye.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/08 - See You On The Other Side.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/02 - But Baby.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/10 - The Kimster.flac
+   407,134 --> /home/robertm/music/Devlin, Jim/Puerto Nuevo/07 - Mister Hollywood.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/11 - The Little Drummer Boy.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/05 - The Christmas Song.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/08 - My Favorite Things.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/13 - A Song and a Christmas Tree.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/15 - Silent Night, Holy Night.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/10 - A Song and a Christmas Tree.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/03 - Kay Thompson's Jingle Bells.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/07 - Have Yourself a Merry Little Christmas.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/14 - Away in a Manger.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/12 - O Holy Night.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/01 - It's the Most Wonderful Time of the Year.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/06 - White Christmas.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/04 - Winter Wonderland.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/02 - Happy Holidays-The Holiday Season.flac
+   253,255 --> /home/robertm/music/Williams, Andy/Christmas Collection, The/09 - Do You Hear What I Hear.flac
+   344,863 --> /home/robertm/music/Crowded House/Chocolate Cake/03 - Anyone Can Tell.flac
+   344,863 --> /home/robertm/music/Crowded House/Chocolate Cake/01 - Chocolate Cake.flac
+   344,863 --> /home/robertm/music/Crowded House/Chocolate Cake/02 - As Sure As I Am.flac
+no pic found: /home/robertm/music/Styx/Classics/08 - Renegade.flac
+no pic found: /home/robertm/music/Styx/Classics/07 - Mr. Roboto.flac
+no pic found: /home/robertm/music/Styx/Classics/06 - Light Up.flac
+no pic found: /home/robertm/music/Styx/Classics/11 - The Grand Illusion.flac
+no pic found: /home/robertm/music/Styx/Classics/04 - Crystal Ball.flac
+no pic found: /home/robertm/music/Styx/Classics/01 - Babe.flac
+no pic found: /home/robertm/music/Styx/Classics/10 - Don't Let It End.flac
+no pic found: /home/robertm/music/Styx/Classics/13 - Too Much Time On My Hands.flac
+no pic found: /home/robertm/music/Styx/Classics/05 - Fooling Yourself (The Angry Young Man).flac
+no pic found: /home/robertm/music/Styx/Classics/02 - Blue Collar Man (Long Nights).flac
+no pic found: /home/robertm/music/Styx/Classics/03 - Come Sail Away.flac
+no pic found: /home/robertm/music/Styx/Classics/14 - Miss America.flac
+no pic found: /home/robertm/music/Styx/Classics/12 - Suite Madame Blue.flac
+no pic found: /home/robertm/music/Styx/Classics/09 - The Best Of Times.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/10 - Tru.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/12 - My Lovely Assistant.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/01 - Universe of Two.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/04 - Some Other Time.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/06 - According to Anthony.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/13 - Ate Too Much.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/11 - Imaginary Audience.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/02 - Pagan.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/08 - Boof and Swat.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/07 - Hopeland.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/03 - All My Children.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/05 - New Snow.flac
+   483,447 --> /home/robertm/music/Flim and the BBs/This Is a Recording/09 - Creeper.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/02 - John Stoddart & Sherry McGee - Andrea Bocelli & Karina Pasian - The Prayer.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/10 - Angélique Kidjo featuring Soundz of South Africa - Afirika.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/04 - Zucchero - Everybody's Got to Learn Sometime.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/05 - Herbie Hancock featuring Carlos Santana & Bill Summers - Watermelon Man.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/03 - Alicia Keys - Fallin'.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/09 - Josh Groban - You Raise Me Up.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/12 - Karina Pasian and cast - We Are the Future.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/11 - Norah Jones - Peace.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/08 - Juanes - A Dios Le Pido (I Ask God).flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/06 - Carmen Consoli - L'Ultimo Bacio.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/07 - Patti Austin - How High the Moon.flac
+   412,320 --> /home/robertm/music/We Are The Future (Yahoo Concert)/01 - Carlos Santana featuring Fher (from Mana) - Oye Como Va.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/06 - Hold On.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/09 - Take Me to the Ending.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/08 - Ghost of Myself.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/05 - Broken Mandolin.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/02 - Scrape Me Off the Ceiling.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/04 - Sing Me Like a Folk Song.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/03 - Wild As We Came Here.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/07 - Heartbeat.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/01 - To the Wild.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/11 - Love Longer Love.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/10 - Till No One Is Free.flac
+   579,595 --> /home/robertm/music/Steel Wheels, The/Wild As We Came Here/12 - Waiting By The Railroad.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/08 - Long Way to Go.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/02 - With It All Stripped Away.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/05 - Cuckoo - Cluck Old Hen.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/06 - Go Up to That Mountain.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/01 - Breaking Like the Sun.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/04 - Hold On.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/07 - Red Wing.flac
+   157,435 --> /home/robertm/music/Steel Wheels, The/Live at the Station Inn/03 - Ghost of Myself.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/05 - Mountains Quake.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/01 - Wild As We Came Here.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/02 - Scrape Me Off the Ceiling.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/07 - Broken Mandolin.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/06 - Find Your Mountain.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/08 - Shape I'm In.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/03 - Sing Me Like a Folk Song.flac
+   160,363 --> /home/robertm/music/Steel Wheels, The/Live at the Jefferson Theater/04 - Nothing You Can't Lose.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio Movement in B Flat Major - Sonata/01 - Piano Trio Movement in B flat major, D28, 'Sonata'.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 2/03 - Piano Trio in E flat major, D929 - 3. Scherzo (Allegro Moderato).flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 2/01 - Piano Trio in E flat major, D929 - 1. Allegro.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 2/04 - Piano Trio in E flat major, D929 - 4. Allegro Moderato.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 2/02 - Piano Trio in E flat major, D929 - 2. Andante con Moto.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 1/02 - Piano Trio No.1 in B flat major, Op.99, D.898 - 2 Andante un Poco Mosso.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 1/01 - Piano Trio No.1 in B flat major, Op.99, D.898 - 1. Allegro Moderato.flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 1/03 - Piano Trio No.1 in B flat major, Op.99, D.898 - 3 Scherzo (Allegro).flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Piano Trio No. 1/04 - Piano Trio No.1 in B flat major, Op.99, D.898 - 4 Rondo (Allegro Vivace).flac
+   159,840 --> /home/robertm/music/Schubert, Franz/Adagio in E Flat Major/01 - Schubert - Adagio in E flat major, Op.posth.148, D.897 'Notturno'.flac
+   321,647 --> /home/robertm/music/Images/Finesse/05 - It's Been Much Too Long.flac
+   321,647 --> /home/robertm/music/Images/Finesse/02 - On The Heights.flac
+   321,647 --> /home/robertm/music/Images/Finesse/03 - Copenhagen Thought.flac
+   321,647 --> /home/robertm/music/Images/Finesse/08 - See You In The Movies.flac
+   321,647 --> /home/robertm/music/Images/Finesse/07 - You Satisfy The Need.flac
+   321,647 --> /home/robertm/music/Images/Finesse/06 - Tucker's Tune.flac
+   321,647 --> /home/robertm/music/Images/Finesse/04 - Are You Free.flac
+   321,647 --> /home/robertm/music/Images/Finesse/01 - Jonathan.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/05 - There Is a Time.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/15 - Whiskey Lullaby.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/02 - I Will Shelter You.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/06 - Ladies Bluff.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/01 - Beautiful Sound.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/07 - Travelin' Angels.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/14 - Gina.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/13 - Let Me Get Out of This World Alive.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/08 - No One Else.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/03 - Wait a Minute.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/10 - If You Could See.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/12 - A Heart Always True.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/09 - Die Tryin'.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/04 - Wandering Boy.flac
+   251,744 --> /home/robertm/music/Jorgenson, John Bluegrass Band/From the Crow's Nest/11 - Feather.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/01 - Once Upon a Time in the West.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/02 - Expresso Love.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/04 - Love Over Gold.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/03 - Romeo and Juliet.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/05 - Private Investigations.flac
+   305,418 --> /home/robertm/music/Dire Straits/Alchemy Part One/06 - Sultans of Swing.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/03 - Fancy Poultry.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/09 - Gypsy.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/02 - Luka.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/11 - Tom's Diner (Reprise).flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/05 - Night Vision.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/06 - Solitude Standing.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/07 - Calypso.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/04 - In The Eye.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/10 - Wooden Horse (Caspar Hauser's Song).flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/08 - Language.flac
+   462,770 --> /home/robertm/music/Vega, Suzanne/Solitude Standing/01 - Tom's Diner.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/06 - Undertow.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/03 - Marlene On The Wall.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/07 - Some Journey.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/10 - Neighborhood Girls.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/08 - The Queen And The Soldier.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/09 - Knight Moves.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/04 - Small Blue Thing.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/05 - Straight Lines.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/02 - Freeze Tag.flac
+   156,237 --> /home/robertm/music/Vega, Suzanne/Suzanne Vega/01 - Cracking.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/04 - Canadian Girl.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/05 - Office Supplies.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/13 - Girl From River Run.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/07 - Strangest Christmas Yet.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/10 - Nights In The Lab.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/01 - Santa Fe.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/02 - Caroline.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/08 - Always Will.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/14 - Promontory Point.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/12 - On The Water.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/06 - Bad Night.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/03 - All Night Long.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/09 - So Familiar.flac
+   639,723 --> /home/robertm/music/Steep Canyon Rangers/Long Awaited Album, The/11 - Angeline The Barista.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/03 - Love In Song.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/12 - Treat Her Gently Lonely Old People.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/15 - Lunch Box  Odd Sox Bonus Track.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/01 - Venus And Mars.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/09 - Medicine Jar.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/13 - Crossroads Theme.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/11 - Listen To What The Man Said.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/06 - Letting Go.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/08 - Spirits Of Ancient Egypt.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/04 - You Gave Me The Answer.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/14 - Zoo Gang Bonus Track.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/05 - Magneto And Titanium Man.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/07 - Venus And Mars Reprise.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/02 - Rock Show.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/10 - Call Me Back Again.flac
+   159,959 --> /home/robertm/music/McCartney, Paul and Wings/Venus and Mars/16 - My Carnival Bonus Track.flac
+no pic found: /home/robertm/music/Mozart, Wolfgang Amadeus/KV136 - Divertimento/02 - Divertimento K136_I.flac
+no pic found: /home/robertm/music/Mozart, Wolfgang Amadeus/KV136 - Divertimento/03 - Divertimento K136_II.flac
+no pic found: /home/robertm/music/Mozart, Wolfgang Amadeus/KV136 - Divertimento/04 - Divertimento K136_III.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/08 - False Alarm.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/12 - Through the Dark.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/01 - Other Side of the World.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/10 - Stoppin' the Love.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/11 - Heal Over.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/05 - Miniature Disasters.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/07 - Universe  U.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/06 - Silent Sea.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/02 - Another Place to Fall.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/03 - Under the Weather.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/09 - Suddenly I See.flac
+   185,697 --> /home/robertm/music/Tunstall, KT/Eye to the Telescope/04 - Black Horse and the Cherry Tree.flac
+   186,474 --> /home/robertm/music/Steely Dan/Gaucho/05 - Time Out Of Mind.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/07 - Black Noah.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/05 - Serenghetti.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/08 - Gitano de Paraguay.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/06 - Shooz Off.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/01 - Barefoot.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/09 - Arica.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/02 - Gobi Wind.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/10 - Breath is life.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/04 - Street Strut.flac
+   454,070 --> /home/robertm/music/Barefoot/Barefoot/03 - Roundabout.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/08 - Medley - Rollin' Man - Bayou Queen.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/02 - Looking for Somebody.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/01 - Red Hot Gal.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/07 - Love That Burns.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/11 - Shake Your Moneymaker.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/12 - Albatross.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/03 - Fleetwood Boogie.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/05 - Rattlesnake Shake.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/06 - When We Do the Lucky Devil.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/04 - Stop Messin' Around.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/10 - I Got a Hole In My Shoe.flac
+   166,676 --> /home/robertm/music/Mick Fleetwood Blues Band, The/Blue Again/09 - Black Magic Woman.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/05 - Where's The Party.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/07 - La Isla Bonita.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/04 - Live To Tell.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/06 - True Blue.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/01 - Papa Don't Preach.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/08 - Jimmy Jimmy.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/02 - Open Your Heart.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/03 - White Heat.flac
+   165,173 --> /home/robertm/music/Madonna/True Blue/09 - Love Makes The World Go Round.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/03 - Life In The Fast Lane.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/04 - Wasted Time.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/09 - The Last Resort.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/01 - Hotel California.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/08 - Try And Love Again.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/05 - Wasted Time (Reprise).flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/02 - New Kid In Town.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/07 - Pretty Maids All In A Row.flac
+   424,998 --> /home/robertm/music/Eagles/Hotel California/06 - Victim Of Love.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/07 - Mama's Two Step.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/10 - Dockside Special.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/12 - J'sus Apres Te Quitter.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/06 - J'sus Apres M'Ennuyer.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/04 - Ta Peux Conger.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/08 - Si J'ai Pas Toi.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/05 - Cher' Tit Coeur.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/13 - Mais Yeaux Bleu.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/09 - J'ai Gone Fou.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/03 - Ya Juste Toi.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/11 - Tit Cheveux Noir.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/01 - J'suis Apres Me Soutenir.flac
+   294,305 --> /home/robertm/music/Sonnier, Jo-El/Legacy, The/02 - Les Blues D' Ennui.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/07 - West of Zanzibar.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/08 - Rusty Trombone.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/02 - Karnival Joe (from Kokomo).flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/01 - Conglomeration of Curios.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/03 - Pay Me Now (or Pay Me Later).flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/06 - Something Wicked (pt.2).flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/05 - Hey Shango.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/04 - Beasts of Burgundy.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/12 - Fade.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/09 - Use What Mama Gave You.flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/10 - Axman Jazz (Don't Scare Me Papa).flac
+   266,379 --> /home/robertm/music/Squirrel Nut Zippers/Beasts of Burgundy/11 - Something Wicked (pt.1).flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/03-Take Five.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/06-Everybody's Jumpin'.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/01-Blue Rondo a la Turk.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/05-Kathy's Waltz.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/02-Strange Meadow Lark.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/07-Pick Up Sticks.flac
+   436,456 --> /home/robertm/music/Brubeck, Dave/Time Out/04-Three To Get Ready.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/05 - Sing.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/07 - Fight For Love.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/03 - Carve Your Name On My Door.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/06 - Rock 'n' Roll Music.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/04 - This Side Of The Blue Horizon.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/11 - Looking For You.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/09 - Slide Away.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/08 - The Thrill Of It All.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/10 - Last Dance.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/02 - New Lines On Love.flac
+   215,276 --> /home/robertm/music/Sniff n the Tears/Fickle Heart/01 - Driver's Seat.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/03 - Soldiier Of Love.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/07 - Johnny O.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/01 - Workin' Man Nowhere To Go.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/04 - Down That Road Tonight.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/06 - Corduroy Road.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/08 - Thunder And Lightnin'.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/12 - I've Been Lookin' repise.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/05 - Baby Blues.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/02 - I've Been Lookin'.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/11 - Brass Sky.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/09 - A Lot Like Me.flac
+   487,059 --> /home/robertm/music/Nitty Gritty Dirt Band/Workin' Band/10 - Living Without You.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/07 - Tennessee Stud.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/11 - I Saw The Light.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/10 - The End Of The World.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/09 - Wreck On The Highway.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/35 - Wildwood Flower.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/13 - Nine Pound Hammer.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/19 - Cannonball Rag.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/38 - Both Sides Now.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/25 - Wabash Cannonball.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/20 - Avalanche.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/28 - Way Downtown.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/06 - Dark As A Dungeon.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/02 - Keep On The Sunny Side.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/03 - Nashville Blues.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/15 - Honky Tonkin'.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/16 - You Don't Know My Mind.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/29 - Down Yonder.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/34 - I Am A Pilgrim.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/33 - I'm Thinking Tonight Of My Blue Eyes.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/26 - Lost Highway.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/37 - Will The Circle Be Unbroken.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/32 - Sailin' On To Hawaii.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/21 - Flint Hill Special.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/08 - Black Mountain Rag.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/22 - Togary Mountain.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/27 - Doc Watson And Merle Travis- First Meeting (Dialogue).flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/14 - Losin' You (Might Be The Best Thing Yet).flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/01 - Grand Ole Opry Song.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/23 - Earl's Breakdown.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/05 - The Precious Jewel.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/12 - Sunny Side Of The Mountain.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/04 - You Are My Flower.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/18 - Lonesome Fiddle Blues.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/24 - Orange Blossom Special.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/36 - Soldier's Joy.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/17 - My Walkin' Shoes.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/31 - Honky Tonk Blues.flac
+   228,946 --> /home/robertm/music/Nitty Gritty Dirt Band/Will The Circle Be Unbroken (40th Anniversary Edition)/30 - Pins And Needles (In My Heart).flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/02 - I Wanna Be Like You.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/11 - Sleep Tight.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/08 - Big Time Operator.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/01 - Big and Bad.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/04 - When It Comes To Love.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/09 - Still In Love With You.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/05 - I'm Not Sleepin'.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/07 - What's Next.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/03 - Who's That Creepin'.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/06 - Some Things.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/12 - Ol' MacDonald.flac
+   976,050 --> /home/robertm/music/Big Bad Voodoo Daddy/This Beautiful Life/10 - 2000 Volts.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/01 - Think Again.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/07 - The Dreamist.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/02 - Mike and Randy (Leave for Pluto).flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/05 - Rhythmic Weirdness.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/06 - Little Will.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/03 - Clown's Disguise.flac
+   433,437 --> /home/robertm/music/Wishful Thinking/Think Again/04 - The Green Room.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/01 - Hope of a Lifetime.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/02 - Snake Eyes.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/11 - Hear Them Loud.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/12 - Memphis.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/05 - The Ash  Clay.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/10 - Heaven.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/08 - Whisper in Her Ear.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/09 - On the Mend.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/07 - The Jewel of June.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/04 - Years Gone By.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/06 - Promised Land.flac
+   226,183 --> /home/robertm/music/Milk Carton Kids, The/Ash and Clay, The/03 - Honey Honey.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/10 - Oh Happy Day.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/07 - Walk Away.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/01 - Livin' the Blues.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/04 - River Deep.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/08 - Mighty Love.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/06 - It Won't Be Long.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/09 - Jesus I'll Never Forget.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/02 - Bring Me Your Love.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/03 - Two Bit Texas Town.flac
+   321,259 --> /home/robertm/music/Blues Broads, The/Blues Broads, The/05 - Blue Highway.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/03 - Flipside.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/11 - Carry On.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/10 - Sleeping Wild.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/02 - Tragedy.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/06 - Don't Be Denied.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/09 - Once I Had a Laugh.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/07 - Day Breaks.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/05 - And Then There Was You.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/08 - Peace.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/01 - Burn.flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/12 - Fleurette Africaine (African Flower).flac
+   234,364 --> /home/robertm/music/Jones, Norah/Day Breaks/04 - It's a Wonderful Time for Love.flac
+   312,898 --> /home/robertm/music/Jones, Norah/Feels Like Home/Norah Jones - Feels Like Home - 01 - Sunrise.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/08 - Spring Rain.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/05 - November.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/04 - Celebration.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/06 - Pegasus.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/07 - Winter Sun.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/03 - Rapunzel.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/01 - California.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/02 - Bhagwan.flac
+   481,716 --> /home/robertm/music/Greaver, Paul/Joy/09 - Joy.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/06 - My Girl's ExBoyfriend.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/03 - High Of 75.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/04 - I So Hate Consequences.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/12 - This Week The Trend.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/05 - The Only Thing Worse Than Beating A Dead Horse Is Betting On One.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/07 - More Than Useless.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/14 - When I Go Down.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/11 - Maintain Consciousness.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/01 - The One I'm Waiting For.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/10 - Who I Am Hates Who I've Been.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/08 - Which To Bury Us Or The Hatchet.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/02 - Be My Escape.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/13 - Life After Death  Taxes Failure II.flac
+   174,721 --> /home/robertm/music/Relient K/Mmhmm/09 - Let It All Out.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/08 - For The Moments I Feel Faint.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/11 - What Have You Been Doing Lately.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/09 - Lion Wilson.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/05 - Maybe Its Maybeline.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/16 - Failure To Excommunicate.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/02 - Pressing On.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/13 - My Way Or The Highway....flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/17 - Less Is More.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/01 - KickOff.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/15 - The Rest Is Up To You.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/07 - Those Words Are Not Enough.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/04 - Down In Flames.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/10 - I'm LionO.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/14 - Breakfast At Timpani's.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/03 - Sadie Hawkins Dance.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/06 - Breakdown.flac
+   236,369 --> /home/robertm/music/Relient K/Anatomy Of The Tongue In Cheek, The/12 - May The Horse Be With You.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/09 - Please.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/05 - Love Me.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/07 - Note to Self.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/04 - Jr. Cash.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/11 - Glory Bound.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/08 - May You Never.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/12 - Heavy (Reprise).flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/01 - The River Jordan.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/06 - To Try.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/02 - Golden.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/10 - Down in the Valley.flac
+   162,852 --> /home/robertm/music/Erlewine, May/Golden/03 - Heavy.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/06 - So Far Away.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/03 - The Little Things.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/02 - In A Year.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/01 - Come On In.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/05 - While The World.flac
+   284,061 --> /home/robertm/music/Erlewine, May/Little Things, The/04 - Let's Get Real.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/09 - Waterfall.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/03 - Sleepless.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/08 - Starling.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/06 - For Dave.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/12 - Moonbeam.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/01 - Lone Wolf.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/11 - Every Cowgirl.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/05 - Let It Go.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/07 - California Heartbreak.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/10 - Movin' On.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/04 - Soul Kitchen.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/13 - Things Change.flac
+   177,896 --> /home/robertm/music/Erlewine, May/Sleepless/02 - Broken Bones.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/07 - Global Motion.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/09 - Greetings.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/01 - The Good Life.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/02 - Sea Cliff Meadow.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/08 - Path of the Moon.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/10 - A Break in the Storm.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/05 - Rotation.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/04 - Straight Ahead.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/06 - Resolutions.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/11 - Catilina Bay.flac
+   320,398 --> /home/robertm/music/Belote, William/Connected/03 - Connected.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/05 - Next Year People.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/03 - Did You Just Take the Long Way Home.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/06 - Lived in Vain.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/09 - Mr. Grogan.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/02 - If I Had Been a Better Man.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/11 - Are We There Yet bonus track.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/07 - Scattered in the Sand.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/12 - Lament for Whisky McManus bonus track.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/08 - To There from Here.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/01 - Trying to Get to You.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/10 - Waiting in the Rain.flac
+   306,471 --> /home/robertm/music/Hay, Colin/Next Year People/04 - I Want You Back.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/06 - Keep On the Sunnyside of Life.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/07 - Marchin' On To Victory.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/08 - Let A Little Sunshine In.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/03 - Wings of a Dove.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/05 - The Lord's Prayer.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/11 - Who Was It Everybody.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/04 - Preacher and the Bear.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/02 - Beautiful Bouquet.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/01 - He Keeps Me Singing.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/10 - Bubblin' In My Soul.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/12 - 50 Miles of Elbow Room.flac
+   234,850 --> /home/robertm/music/Turner, Vicki, Mike, and Charlotte/Cheer Up/09 - What A Savior What A Friend.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/04 - A Love Idea.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/09 - Finale  Last Exit to Brooklyn.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/03 - Think Fast.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/08 - As Low As It Gets.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/05 - Tralala.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/07 - The Reckoning.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/02 - Victims.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/06 - Riot.flac
+   307,760 --> /home/robertm/music/Last Exit to Brooklyn/01 - Last Exit to Brooklyn.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/01 - Little Light.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/06 - Underground.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/09 - No Apologies.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/05 - Outta My Head.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/08 - Crying.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/02 - Heavenly Fire.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/07 - Meet Me.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/03 - Stephen.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/04 - MMLJ.flac
+   153,509 --> /home/robertm/music/Eagle Rock Gospel Singers, The/Heavenly Fire/10 - Amen.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/11 - Lay Down Low.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/12 - It's Killing Me.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/09 - Something To Hold On To.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/06 - Church Fire.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/07 - Till I Got Your Love.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/05 - Like A Child.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/08 - Over Me.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/02 - Momma Told Me.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/03 - Haunted.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/10 - Dry.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/01 - No Glory.flac
+   191,478 --> /home/robertm/music/Eagle Rock Gospel Singers, The/No Glory/04 - Take Me To The Water.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/03 - In Search Of Proper I.D..flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/02 - Border Town.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/07 - Spring Snow.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/06 - Future Prospect.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/04 - High Tech Ages.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/08 - Anita.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/05 - Collage.flac
+   365,823 --> /home/robertm/music/Siegel, Dan/Future Prospect/01 - 40 Love.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/05 - Mary.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/10 - Let The Words.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/06 - David And Goliath.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/03 - If We Ever.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/08 - He Never Sleeps.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/09 - Milky-White Way.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/01 - Gold Mine.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/02 - Spread Love.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/07 - Get Away, Jordan.flac
+   361,890 --> /home/robertm/music/Take 6/Take 6/04 - A Quiet Place.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/07 - I Get Crazy.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/03 - Chase The Clouds Away.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/04 - Hill Where The Lord Hides.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/06 - Love The Feelin'.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/01 - Feels So Good.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/05 - Doin' Everything With You.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 1)/02 - The XIth Commandment.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/04 - Children of Sanchez (Main Theme).flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/01 - Land of Make Believe.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/06 - Children of Sanchez (Finale).flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/07 - Main Squeeze.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/08 - Feels So Good (Encore).flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/02 - Hide and Seek.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/05 - B'Bye.flac
+   168,012 --> /home/robertm/music/Mangione, Chuck/Live At The Hollywood Bowl (Disc 2)/03 - The Day After (Our First Night Together).flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/06 - Cosmo.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/02 - Feel My Heart.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/05 - Give and Take.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/04 - Samba De La Tootes.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/07 - Separate Peace.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/01 - When We Share.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/08 - No Limit.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/03 - Gentle Persuasion.flac
+   375,338 --> /home/robertm/music/Dreamstreet/No Limit/09 - Lullaby for Emma.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/01 - St. Rev.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/08 - Children of Fantasy.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/02 - One More Miracle.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/06 - Pocket Dance.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/07 - Mary Go Around Me Again.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/04 - Midnite Moves.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/03 - The Dreamer.flac
+   191,001 --> /home/robertm/music/Dreamstreet/Dreamstreet/05 - Pop Mlange.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/05 - Lullaby.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/07 - Random Chance.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/03 - Karla's Song.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/10 - Getting to the Point.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/09 - Reckless Manoeuvres.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/06 - Dark Roast.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/02 - Tim Time.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/04 - Three a.m..flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/12 - Amazing Grace.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/01 - Big Mountain Sunrise.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/08 - Schnans Haus.flac
+   440,366 --> /home/robertm/music/Pattis, Larry/Random Chance/11 - Fairwell to Tarwathie.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/03 - Take This Heart.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/08 - Old Man and His Sea.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/10 - Ain't That Girl.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/01 - When You're Around.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/04 - Beyond The Blue.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/12 - Listen To Me.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/11 - From the City.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/05 - Homemade Shine.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/07 - Midnight Snack.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/09 - Black River Road.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/06 - Tired Eyes.flac
+   340,378 --> /home/robertm/music/Jones, Laney/Beyond The Blue/02 - If I Could Steal Tomorrow.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/03 - Bad Luck Charm.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/07 - Firewalk.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/08 - Lonesome Soul.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/05 - Work It Out.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/04 - Who Could Love.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/02 - Allston (Dance Around).flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/06 - Troubled Mind.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/09 - The Simple Truth.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/01 - Do What You Want.flac
+no pic found: /home/robertm/music/Jones, Laney/Laney Jones/10 - Endless Summer.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/05 - Dancing by Candlelight.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/09 - Long Distances.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/03 - Solving a Dream.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/08 - Something Constructive.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/04 - Two Moods.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/01 - Wide Open Spaces.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/02 - Waiting.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/07 - Southern Hospitality.flac
+   318,753 --> /home/robertm/music/Jarvis, John/Something Constructive/06 - A View From Above.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/01 - Paradise Drive.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/07 - Santa Fe.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/12 - My Picasso.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/10 - Mozambo.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/02 - Cienega.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/08 - Get Down (and Stay Down).flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/04 - In Search Of....flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/06 - February Song.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/09 - Final Segment.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/05 - Cha Cha Slippers.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/13 - February Song (Long Version).flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/11 - Street Dreamin'.flac
+   157,988 --> /home/robertm/music/Blazing Redheads/Blazing Redheads/03 - Sea Level.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/04 - Target.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/03 - T.V. Age.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/02 - Chinatown.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/07 - Cancer.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/05 - Steppin' Out.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/08 - Real Men.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/09 - A Slow Song.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/06 - Breaking Us In Two.flac
+   285,859 --> /home/robertm/music/Jackson, Joe/Night And Day (MFSL Gold)/01 - Another World.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/01 - Jennifer Warnes  Way Down Deep.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/04 - Jennifer Warnes  First We Take Manhattan.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/08 - Yanni  Aria.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/12 - Ringo Starr  Weight of the World.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/02 - Jennifer Warnes  Big Noise New York.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/07 - Patrick O'Hearn  Coba.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/11 - Ringo Starr  Runaways.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/05 - Toots Thielemans  Comecar De Novo.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/06 - Toots Thielemans  O Cantador.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/03 - Jennifer Warnes  Bird On A Wire.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/10 - Leo Kottke  Nothin' Works.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/09 - Leo Kottke  Mona Ray.flac
+   391,528 --> /home/robertm/music/Samplers/Boston Acoustics Sampler - UpClose Volume 13/13 - The Pahinui Bros.  Jealous Guy.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/10 - Haunted Heart.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/08 - Good For Your Soul.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/05 - Perfect Poison.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/02 - Breathing Fire.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/06 - Devil Is Downtown.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/04 - Temporary Love.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/07 - Hollow Hallelujah.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/11 - Bloodline.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/12 - Wanted.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/01 - Southern Gothic.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/03 - Gone.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/09 - Wailing Wall.flac
+   449,590 --> /home/robertm/music/Tyminski, Dan/Southern Gothic/13 - Numb.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/11 - Flying Down Juniper.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/05 - It Was You.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/01 - Not Too Late.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/07 - Cast Away Dreams.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/10 - Someone's Gotta Change Your Mind.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/08 - Shut Us Down.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/09 - Down on Rodeo.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/06 - To Try for the Sun.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/04 - I Am Waiting.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/03 - Under the Skin.flac
+   224,693 --> /home/robertm/music/Buckingham, Lindsey/Under the Skin/02 - Show You How.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/07 - Lay Down for Free.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/06 - Too Far Gone.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/02 - Feel About You.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/10 - Carnival Begin.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/05 - Love Is Here to Stay.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/03 - In My World.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/09 - On With the Show.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/04 - Red Sun.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/08 - Game of Pretend.flac
+   208,327 --> /home/robertm/music/Buckingham, Lindsey/Lindsey Buckingham Christine McVie/01 - Sleeping Around the Corner.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/A Night On The Town CD Single/03 - These Arms Of Mine Live.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/A Night On The Town CD Single/01 - A Night On The Town.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/A Night On The Town CD Single/02 - Special Night.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/07 - Passing Through.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/01 - Harbor Lights.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/09 - What A Time.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/03 - Long Tall Cool One.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/02 - Talk Of The Town.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/10 - Pastures Of Plenty.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/05 - Fields Of Gray.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/08 - The Tide Will Rise.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/06 - Rainbow's Cadillac.flac
+ 1,346,444 --> /home/robertm/music/Hornsby, Bruce and the Range/Harbor Lights/04 - China Doll.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/14 - Sweet Savannah Sue.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/01 - Bach Up To Me.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/04 - African Ripples.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/12 - My Fate Is In Your Hands.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/15 - Squeeze me.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/10 - I've Got A Feeling I'm Falling.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/06 - Viper's Drag.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/07 - Willow Tree.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/03 - Keepin' Out f Mischief Now.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/13 - Jitterbug Waltz.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/02 - Ain't Misbehavin'.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/05 - Honeysuckle Rose.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/09 - Stealin' Apples.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/11 - Handful of Keys.flac
+   257,090 --> /home/robertm/music/Hyman, Dick/Dick Hyman Plays Fats Waller/08 - I'm Goin' To See My Ma.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/06 - Rebel Rebel.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/07 - Jolie Jolie.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/05 - Tigers.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/04 - Beat Angels.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/03 - Stewart's Coat.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/01 - Pink Flamingos.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/08 - Running From Mercy.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/09 - A Stranger's Car.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/02 - Altar Boy.flac
+   336,477 --> /home/robertm/music/Jones, Rickie Lee/Traffic From Paradise/10 - The Albatross.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/02 - Don't You Worry.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/07 - The Story of a Boy in Love.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/09 - Red Cab to Manhattan.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/12 - My Clarinet.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/10 - Sex Kittens Go to College.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/06 - Little Moon.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/11 - City Girl.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/18 - Teenage Millionaire (Demo).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/08 - Living in the Land of Abe Lincoln.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/05 - Let Her Go.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/01 - The Big House.flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/13 - Hit the Road Jack (Session Outtake).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/14 - Send a Little Love My Way (Like Always)(Single Version).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/15 - Shine on You Crazy Moon (Demo).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/04 - Send a Little Love My Way (Like Always).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/16 - Smile When You Touch Her (Demo).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/17 - I'd Come Home for You (Demo).flac
+   441,940 --> /home/robertm/music/Bishop, Stephen/Red Cab to Manhattan/03 - Thief in the Night.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/07-Where You Hid The Truth.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/08-The Music In My Head.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/01-As Long As We're Both Together.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/05-To Spend The Day With You.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/02-Suddenly Sci-Fi.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/03-The Idea Of A Tree.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/04-Bluebird Blue.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/06-Bebop Headshop.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/09-Candleglow.flac
+   572,891 --> /home/robertm/music/Franks, Michael/The Music In My Head/10-Waterfall.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/03-Crazy On You.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/04-Soul Of The Sea.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/10-Dreamboat Annie (Reprise).flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/01-Magic Man.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/02-Dreamboat Annie (Fantasy Child).flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/05-Dreamboat Annie.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/08-Sing Child.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/07-(Love Me Like Music) I'll Be Your Song.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/09-How Deep It Goes.flac
+   398,313 --> /home/robertm/music/Heart/Dreamboat Annie/06-White Lightning And Wine.flac
+over sized covers ==> 1923

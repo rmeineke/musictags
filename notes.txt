@@ -26,7 +26,7 @@ it.  Returns True if this is specified.
 
 If more than one artwork frame exists, then only the first one encountered will
 be used.
-
+dfa
 Returns False if mp3 can't be opened, and None if no art was found.
 
 """
@@ -74,6 +74,20 @@ dict_keys(['TIT2', 'TPE1', 'TALB', 'TRCK', 'TCON', 'COMM::\x00\x00\x00', 'TDRC']
 /////////////////////////
 
 Here's how I was able to pull it off.
+
+no pic found: /home/robertm/tmp/MOZART/FINISHED/Serenata Notturna in D - K239/Serenata Notturna in D - K239.flac
+Traceback (most recent call last):
+  File "find.flac.files.py", line 53, in <module>
+    main()
+  File "find.flac.files.py", line 42, in main
+    print(f'{size:10,} --> {f}')
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udcfc' in position 46: surrogates not allowed
+(musictags-nVG5Fzdp) [10:29] robertm -- /home/robertm/programming/musictags $ python find.flac.files.py >flac.out.txt
+(musictags-nVG5Fzdp) [10:29] robertm -- /home/robertm/programming/musictags $
+///////////////////////////////////////////////////
+
+
+
 
 First, get access to the file in Mutagen:
 
