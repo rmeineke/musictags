@@ -27,46 +27,35 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    oversized_cover = 0
-    for root, dirs, files in os.walk('/home/robertm/music'):
+    oversized_covers = 0
+    for root, dirs, files in os.walk('/home/robertm'):
         for file in files:
             if file.lower().endswith('.mp3'):
                 f = os.path.join(root, file)
                 try:
                     meta = ID3(f)
                 except ID3NoHeaderError as e:
-                    print(f' >>> {e} ')
+                    print(f'{e}')
 
-                data = ''
+                pic_not_found = True
                 tags = mutagen.mp3.Open(f)
                 for i in tags:
                     if i.startswith('APIC'):
-                        # print(f' # # # # # # # # # # # #')
+                        pic_not_found = False
                         data = tags[i].data
                         if sys.getsizeof(data) > 150000:
-                            oversized_cover += 1
-                            print(f'{sys.getsizeof(data)} ... {f}')
-                        break;
+                            oversized_covers += 1
+                            print(f'{sys.getsizeof(data):,} --> {f}')
+                        break
+
+                if pic_not_found:
+                    print(f'pic not found: {f}')
+
                 mp3 = MP3File(f)
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
-    print(f'ttl over sized covers: {oversized_cover}')
+    print(f'ttl over sized covers: {oversized_covers}')
 
 
 if __name__ == '__main__':
     main()
-
-#
-# ttl files processed: 5061
-# ttl file size: 42,943,464,128
-# ttl over sized covers: 560
-#
-# ttl files processed: 5061
-# ttl file size: 42,942,171,840
-# ttl over sized covers: 548
-# ttl files processed: 5061
-# # ttl file size: 42,932,568,362
-# # ttl over sized covers: 457
-# ttl files processed: 5061
-# ttl file size: 42,912,593,038
-# ttl over sized covers: 280

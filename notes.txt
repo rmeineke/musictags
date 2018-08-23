@@ -96,3 +96,45 @@ Finally, save it!
 audio.save()
 
 //////////////////////////////////////
+
+
+
+
+#
+# ttl files processed: 5061
+# ttl file size: 42,943,464,128
+# ttl over sized covers: 560
+#
+# ttl files processed: 5061
+# ttl file size: 42,942,171,840
+# ttl over sized covers: 548
+# ttl files processed: 5061
+# # ttl file size: 42,932,568,362
+# # ttl over sized covers: 457
+# ttl files processed: 5061
+# ttl file size: 42,912,593,038
+# ttl over sized covers: 280
+
+
+///////////////////////////////////////////////////
+
+Yeah unfortunately Windows doesn't support that version.
+Instead of just saving it in ID3v1 try saving it in ID3v3
+and ID3v1. I use this in my programs and it works great in Windows 8 and OSX.
+
+from mutagen.mp3 import MP3
+from mutagen.id3 import ID3, APIC, error, TRCK, TIT2, TPE1, TALB, TDRC, TCON
+
+audio = MP3([PATH_TO_FILE], ID3=ID3)
+audio.tags.delete([PATH_TO_FILE], delete_v1=True, delete_v2=True)
+audio.tags.add(
+    APIC(
+        encoding=3,
+        mime='image/jpeg',
+        type=3,
+        desc=u'Cover',
+        data=open([PATH_TO_COVER_IMAGE], 'rb').read()
+    )
+)
+audio.save([PATH_TO_FILE], v2_version=3, v1=2)
+
