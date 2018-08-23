@@ -71,3 +71,28 @@ if __name__ == "__main__":
 dict_keys(['TIT2', 'TPE1', 'TALB', 'TRCK', 'TCON', 'COMM::\x00\x00\x00', 'TDRC'])
 {'TIT2': TIT2(encoding=<Encoding.LATIN1: 0>, text=['I Need A Dollar']), 'TPE1': TPE1(encoding=<Encoding.LATIN1: 0>, text=['Aloe Blacc']), 'TALB': TALB(encoding=<Encoding.LATIN1: 0>, text=['Good Things']), 'TRCK': TRCK(encoding=<Encoding.LATIN1: 0>, text=['01']), 'TCON': TCON(encoding=<Encoding.LATIN1: 0>, text=['R&B']), 'COMM::\x00\x00\x00': COMM(encoding=<Encoding.LATIN1: 0>, lang='\x00\x00\x00', desc='', text=['Amazon.com Song ID: 21801727']), 'TDRC': TDRC(encoding=<Encoding.LATIN1: 0>, text=['2010'])}
 (musictags-nVG5Fzdp) robertm@sys76:~/programming/musictags$
+/////////////////////////
+
+Here's how I was able to pull it off.
+
+First, get access to the file in Mutagen:
+
+audio = MP3("filename.mp3")
+
+Then, get a reference to the tag you're looking for:
+
+picturetag = audio.tags['APIC:Folder.jpg']
+
+Then, modify the type attribute:
+
+picturetag.type = 3
+
+Then, assign it back into the audio file, just to be sure
+
+audio.tags['APIC:Folder.jpg'] = picturetag
+
+Finally, save it!
+
+audio.save()
+
+//////////////////////////////////////

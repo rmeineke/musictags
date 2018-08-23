@@ -27,7 +27,7 @@ def main():
     logger.debug('Entering main')
 
     tags_found = []
-    for root, dirs, files in os.walk('/home/robertm'):
+    for root, dirs, files in os.walk('/home/robertm/music'):
         for file in files:
             if file.endswith('.mp3'):
                 print(f'---------------------------------------------------------------------------')
