@@ -27,7 +27,7 @@ def main():
     logger.debug('Entering main')
 
     tags_found = []
-    for root, dirs, files in os.walk('/home/robertm/music'):
+    for root, dirs, files in os.walk('/home/robertm/programming'):
         for file in files:
             if file.endswith('.mp3'):
                 print(f'---------------------------------------------------------------------------')
@@ -42,6 +42,14 @@ def main():
                     if 'COMM::\x00\x00\x00' in meta.keys():
                         comment = ftags.tags['COMM::\x00\x00\x00']
                         print(f'Comment: >>{comment}<<')
+
+                    if 'TPE1' in meta.keys():
+                        track = ftags.tags["TPE1"]
+                        print(f'{track}')
+
+                    if 'TPE2' in meta.keys():
+                        track = ftags.tags["TPE2"]
+                        print(f'{track}')
 
                     if 'TRCK' in meta.keys():
                         track = ftags.tags["TRCK"]
@@ -67,7 +75,7 @@ def main():
 
                 pic_found = 0
                 for k in meta.keys():
-                    print(f'{k}')
+                    # print(f'{k}')
                     if k.startswith('APIC'):
                         pic_found = pic_found + 1
                     if k not in tags_found:

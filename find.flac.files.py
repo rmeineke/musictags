@@ -28,7 +28,7 @@ def main():
     oversized_covers = 0
     # pic_not_found = True
     for root, dirs, files in os.walk('/home/robertm/music'):
-        print(f'root: {root}')
+        # print(f'root: {root}')
         for file in files:
             if file.lower().endswith('.flac'):
                 f = os.path.join(root, file)
