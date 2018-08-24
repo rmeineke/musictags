@@ -2,6 +2,7 @@ import os
 import logging
 import sys
 from mutagen.flac import FLAC
+from flacfile import FLACFile
 
 
 def main():
@@ -47,7 +48,11 @@ def main():
                     #     print(f'sizeof data == {sys.getsizeof(i.data)}')
                     #     with open("cover.jpg", "wb") as f:
                     #         f.write(i.data)
-    print(f'over sized covers ==> {oversized_covers}')
+
+                flac = FLACFile(f)
+    print(f'ttl files processed: {FLACFile.ttl_files_processed}')
+    print(f'ttl file size: {FLACFile.ttl_file_size:,}')
+    print(f'ttl over sized covers: {oversized_covers}')
 
 
 if __name__ == '__main__':
