@@ -4,7 +4,7 @@ from track import Track
 
 
 def main():
-    for root, dirs, files in os.walk('/home/robertm/programming/musictags/music'):
+    for root, dirs, files in os.walk('/home/robertm/music'):
         for file in files:
             f = os.path.join(root, file)
             print(f'{f}')
