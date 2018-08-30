@@ -1,6 +1,8 @@
 music/
 .idea/
 *.mp3
+*.flac
+*.wav
 __pycache__
 *.jpg
 *.jpeg
