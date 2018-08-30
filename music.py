@@ -17,12 +17,18 @@ def get_track_title_from_file(file):
     return meta['TIT2']
 
 
+def get_album_title_from_file(file):
+    meta = ID3(file)
+    return meta['TALB']
+
+
 def evaluate_mp3(file):
     print(f'entering evaluate_mp3: {file}')
     artist = get_artist_from_file(file)
     band = get_band_from_file(file)
     track_title = get_track_title_from_file(file)
-    track = Track(file, artist, band, track_title)
+    album_title = get_album_title_from_file(file)
+    track = Track(file, artist, band, track_title, album_title)
     return track
 
 
