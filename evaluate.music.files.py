@@ -16,7 +16,7 @@ def main():
                 track = evaluate_mp3(f)
             else:
                 with open('hmmm.txt', 'a') as f_obj:
-                    f_obj.write(f"I don't know what to do with this: {file}\n")
+                    f_obj.write(f"I don't know what to do with this:d]\n\t{f}\n")
 
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
     print(f'ttl_file_size: {Track.ttl_file_size:,}')
