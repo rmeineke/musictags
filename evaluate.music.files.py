@@ -4,7 +4,7 @@ from track import Track
 
 
 def main():
-    for root, dirs, files in os.walk('/home/robertm/music'):
+    for root, dirs, files in os.walk('/home/robertm/programming/musictags/music'):
         for file in files:
             f = os.path.join(root, file)
             print(f'{f}')
@@ -13,10 +13,14 @@ def main():
                 evaluate_flac(f)
             elif file.lower().endswith('.mp3'):
                 print(f'evaluate mp3 file: {file}')
-                track = evaluate_mp3(f)
+                try:
+                    track = evaluate_mp3(f)
+                except KeyError as e:
+                    with open('key_errors.txt', 'a') as f_obj:
+                        f_obj.write(f'{f}\n\t{e}\n')
             else:
-                with open('hmmm.txt', 'a') as f_obj:
-                    f_obj.write(f"I don't know what to do with this:d]\n\t{f}\n")
+                with open('stray_files.txt', 'a') as f_obj:
+                    f_obj.write(f"I don't know what to do with this:\n\t{f}\n")
 
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
     print(f'ttl_file_size: {Track.ttl_file_size:,}')
