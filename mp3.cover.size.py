@@ -28,7 +28,9 @@ def main():
     logger.debug('Entering main')
 
     oversized_covers = 0
-    for root, dirs, files in os.walk('/home/robertm/music'):
+    path = '/home/robertm/programming/musictags/music'
+    # path = '/home/robertm/music'
+    for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.mp3'):
                 f = os.path.join(root, file)

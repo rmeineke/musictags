@@ -4,7 +4,19 @@ from track import Track
 
 
 def main():
-    for root, dirs, files in os.walk('/home/robertm/programming/musictags/music'):
+    print(f'\nChoose path:\n')
+    print(f'1: path1 = /home/robertm/programming/musictags/music')
+    print(f'2: path2 = /home/robertm/musc')
+    resp = int(input())
+    path = ''
+    if resp == 1:
+        path = '/home/robertm/programming/musictags/music'
+    elif resp == 2:
+        path = '/home/robertm/music'
+    else:
+        exit(0)
+
+    for root, dirs, files in os.walk(path):
         for file in files:
             f = os.path.join(root, file)
             print(f'{f}')
@@ -16,10 +28,10 @@ def main():
                 try:
                     track = evaluate_mp3(f)
                 except KeyError as e:
-                    with open('key_errors.txt', 'a') as f_obj:
+                    with open('00_key_errors.txt', 'w+') as f_obj:
                         f_obj.write(f'{f}\n\t{e}\n')
             else:
-                with open('stray_files.txt', 'a') as f_obj:
+                with open('00_stray_files.txt', 'w+') as f_obj:
                     f_obj.write(f"I don't know what to do with this:\n\t{f}\n")
 
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
