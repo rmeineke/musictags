@@ -1,9 +1,17 @@
+
+
+
+ttl files processed: 5059
+ttl file size: 42,880,434,439
+ttl over sized covers: 72
+ttl missing covers: 227
+
+
+
 pic not found: /home/robertm/music/Harris, Emmylou/Heartaches and Highways - The Very Best Of Emmylou Harris/15 - Calling My Children Home - Edit.mp3
 pic not found: /home/robertm/music/McCartney, Paul/Singles/Dance Tonight.mp3
-212,421 --> /home/robertm/music/Thorn, Tracey/Why Does the Wind_/01 - Why Does the Wind_ (Ewan Pearson Radio Edit).mp3
 pic not found: /home/robertm/music/Ward, Anita/Singles/Ring My Bell.mp3
 pic not found: /home/robertm/music/No Doubt/Singles/It's My Life.mp3
-340,417 --> /home/robertm/music/Joplin, Janis/Janis Joplin's Greatest Hits/05 - Me And Bobby McGee.mp3
 pic not found: /home/robertm/music/T Rex/Singles/Bang a Gong.mp3
 pic not found: /home/robertm/music/Randolph, Robert (and the Family Band)/Singles/Ain't Nothin' Wrong With That.mp3
 pic not found: /home/robertm/music/Thomas, Rosie/Singles/It Don't Matter to the Sun.mp3
@@ -11,22 +19,18 @@ pic not found: /home/robertm/music/Zutons, The/Singles/Railroad.mp3
 pic not found: /home/robertm/music/Barenaked Ladies/Singles/12 Green Christmas.mp3
 pic not found: /home/robertm/music/All American Rejects, The/Singles/Move Along.mp3
 pic not found: /home/robertm/music/Stealer's Wheel/Singles/Stuck in the Middle With You.mp3
-205,877 --> /home/robertm/music/John, Elton/Greatest Hits Volume 2/03 - Tiny Dancer.mp3
 pic not found: /home/robertm/music/Shins, The/Singles/New Slang.mp3
 pic not found: /home/robertm/music/Shins, The/Singles/Levis_TheShins_GoodbyeGirl.mp3
 pic not found: /home/robertm/music/4 Irish Whiskey/Singles/Hero of Canton.mp3
 pic not found: /home/robertm/music/Lang, KD/Singles/Helpless.mp3
 pic not found: /home/robertm/music/Commander Cody/Singles/Hot Rod Lincoln.mp3
-169,252 --> /home/robertm/music/Robinson, Vicki Sue/Disco Gold/04 - Turn The Beat Around.mp3
 pic not found: /home/robertm/music/Great Tennessee Monkey Trial/The_Great_Tennessee_Monkey_Trial.mp3
 pic not found: /home/robertm/music/Kamakawiwo'ole, Israel/Singles/Over The Rainbow-What A Wonderful World.mp3
-177,536 --> /home/robertm/music/Hooters/Five By Five/02 - Time After Time.mp3
 pic not found: /home/robertm/music/Severinson, Doc/Singles/Johnny's Theme.mp3
 pic not found: /home/robertm/music/K'naan/Singles/Bang Bang.mp3
 pic not found: /home/robertm/music/K'naan/Concerts/K'naan concert.mp3
 pic not found: /home/robertm/music/Cash, Johnny/Singles/Ring of Fire.mp3
 pic not found: /home/robertm/music/CSS/Singles/Music is My Hot, Hot Sex.mp3
-236,022 --> /home/robertm/music/Mannheim Steamroller/Mannheim Steamroller Christmas 25th Anniversary Collection/10 - Pat A Pan.mp3
 pic not found: /home/robertm/music/Talking Heads/Singles/This Must Be the Place (Naive Melody).mp3
 pic not found: /home/robertm/music/Talking Heads/Singles/Burning Down the House.mp3
 pic not found: /home/robertm/music/Talking Heads/Singles/Wild Wild Life.mp3
@@ -34,8 +38,6 @@ pic not found: /home/robertm/music/Talking Heads/Singles/And She Was.mp3
 pic not found: /home/robertm/music/Talking Heads/Singles/Once In a Lifetime.mp3
 pic not found: /home/robertm/music/Fratellis, The/Singles/Flathead.mp3
 pic not found: /home/robertm/music/She and Him/Levis_She___Him_Fools_Rush_In.mp3
-363,140 --> /home/robertm/music/Martin, Steve/Rare Bird Alert/12 - Atheists Don't Have No Songs.mp3
-363,140 --> /home/robertm/music/Martin, Steve/Rare Bird Alert/12 - Atheists Don't Have No Songs (copy).mp3
 pic not found: /home/robertm/music/Karen O/Singles/Adidas Ad.mp3
 pic not found: /home/robertm/music/Ozomatli/Singles/Can't Stop.mp3
 pic not found: /home/robertm/music/Brun, Ane/Singles/Song Number Six.mp3
@@ -44,17 +46,12 @@ pic not found: /home/robertm/music/Gardot, Melody/Singles/02 - Live at WXPN.mp3
 pic not found: /home/robertm/music/Sean Paul/Singles/Temperature.mp3
 pic not found: /home/robertm/music/Neal and Leandra/Singles/Old Love.mp3
 pic not found: /home/robertm/music/Fusebox/Singles/Light the Fire.mp3
-203,610 --> /home/robertm/music/Davis, Miles/You're Under Arrest/07 - Time After Time.mp3
-228,104 --> /home/robertm/music/Malo, Raul/Sinners and Saints/09 - Saint Behind The Glass.mp3
 pic not found: /home/robertm/music/Adele/Adele - Tiny Desk Concert.mp3
 pic not found: /home/robertm/music/Naim, Yael/Singles/New Soul.mp3
-213,071 --> /home/robertm/music/Henley, Don/Building The Perfect Beast/01 - The Boys Of Summer.mp3
-213,071 --> /home/robertm/music/Henley, Don/Building The Perfect Beast/09 - Sunset Grill.mp3
 pic not found: /home/robertm/music/Parson Red Heads, The/Daytrotter Sessions/03 - Kids Hanging Out.mp3
 pic not found: /home/robertm/music/Parson Red Heads, The/Daytrotter Sessions/05 - Burning Up The Sky.mp3
 pic not found: /home/robertm/music/Parson Red Heads, The/Daytrotter Sessions/01 - Seven Years Ago.mp3
 pic not found: /home/robertm/music/Parson Red Heads, The/Daytrotter Sessions/04 - Happy We Agree.mp3
-251,566 --> /home/robertm/music/Barber, Samuel/Adagio/01 - Adagio for Strings Op. 11.mp3
 pic not found: /home/robertm/music/Klaxons/Singles/Atlantis to Interzone.mp3
 pic not found: /home/robertm/music/Klaxons/Singles/Golden Skans.mp3
 pic not found: /home/robertm/music/Cranberries, The/Cranberries - Tiny Desk Concert.mp3
@@ -62,37 +59,22 @@ pic not found: /home/robertm/music/Gillmor/Singles/Hey.mp3
 pic not found: /home/robertm/music/30 Seconds to Mars/Singles/From Yesterday.mp3
 pic not found: /home/robertm/music/Switchfoot/Singles/Meant to Live.mp3
 pic not found: /home/robertm/music/Bane, Lazlo/Singles/Superman.mp3
-335,214 --> /home/robertm/music/Blind Pilot/Keep You Right/01 - Keep You Right.mp3
-282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/04 - We Are the Tide.mp3
-282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/01 - Keep You Right.mp3
-282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/03 - Half Moon.mp3
-282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/02 - The Colored Night.mp3
 pic not found: /home/robertm/music/Dynamite Hack/Singles/Boyz-N-The Hood.mp3
 pic not found: /home/robertm/music/Chenoweth, Kristen/Singles/Taylor, the Latte Boy.mp3
 pic not found: /home/robertm/music/Brahms, Johannes/Sonata in E Minor_ Op_ 38 - Menuetto Allegro.mp3
 pic not found: /home/robertm/music/Fountains of Wayne/Singles/Hey Julie.mp3
 pic not found: /home/robertm/music/Fountains of Wayne/Singles/Stacy's Mom.mp3
 pic not found: /home/robertm/music/Tender Box, The/Singles/Spiderman.mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/09 - F.O.H. [Explicit].mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/13 - Searching For A Father [Explicit].mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/04 - Going Up [Explicit].mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/05 - Bangers, Beans and Mash [Explicit].mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/10 - Yeah Yeah Oi Oi [Explicit].mp3
-171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/06 - The Clap [Explicit].mp3
 pic not found: /home/robertm/music/Dee/Singles/Miles and Miles.mp3
 pic not found: /home/robertm/music/Blitzen Trapper/Concerts/Blitzen Trapper at SXSW.mp3
-312,645 --> /home/robertm/music/Flo Rida/Club Can't Handle Me/01 - Club Can't Handle Me (Feat. David Guetta).mp3
 pic not found: /home/robertm/music/Franz Ferdinand/Singles/Take Me Out.mp3
 pic not found: /home/robertm/music/Jones, Tom/Singles/Burning Down the House (with the Cardigans).mp3
 pic not found: /home/robertm/music/Simon and Garfunkel/Singles/Red Rubber Ball.mp3
 pic not found: /home/robertm/music/Proclaimers, The/Singles/I'm Gonna Be (500 Miles).mp3
 pic not found: /home/robertm/music/Blues Traveler/Misc/Creep Cover.mp3
 pic not found: /home/robertm/music/Blues Traveler/Misc/07 Don_t Wanna Go (Featuring Crystal Bowersox).mp3
-298,704 --> /home/robertm/music/Dion/Runaround Sue/05 - The Wanderer.mp3
 pic not found: /home/robertm/music/Dion/Runaround Sue/The Wanderer-EDIT.mp3
-404,955 --> /home/robertm/music/Features, The/Some Kind Of Salvation/10 - Lions.mp3
 pic not found: /home/robertm/music/Jarosz, Sarah/Sarah Jarosz - Tiny Desk Concert.mp3
-310,682 --> /home/robertm/music/Elfman, Danny/Alice in Wonderland/01 - Alice's Theme.mp3
 pic not found: /home/robertm/music/Springfield, Dusty/Singles/What Are You Doing the Rest of Your Life.mp3
 pic not found: /home/robertm/music/Angels and Airwaves/Love/07 - The Moon-Atomic (...Fragments and Fictions).mp3
 pic not found: /home/robertm/music/Angels and Airwaves/Love/01 - Et Ducit Mundum Per Luce.mp3
@@ -108,11 +90,8 @@ pic not found: /home/robertm/music/Paul, Billy/Singles/Me and Mrs. Jones.mp3
 pic not found: /home/robertm/music/Paul, Billy/Singles/Me and Mrs. Jones (Live).mp3
 pic not found: /home/robertm/music/Paul, Billy/Singles/Me and Mrs. Jones (Karaoke).mp3
 pic not found: /home/robertm/music/Coulton, Jonathan/Singles/Baby Got Back.mp3
-190,852 --> /home/robertm/music/Coulton, Jonathan/Singles/01 - Baby Got Back (In the Style of Glee).mp3
 pic not found: /home/robertm/music/Main Ingredient, The/Singles/Everybody Plays the Fool.mp3
 pic not found: /home/robertm/music/Decemberists, The/Decemberists - Tiny Desk Concert.mp3
-300,373 --> /home/robertm/music/Decemberists, The/Picaresque/07 - 16 Military Wives.mp3
-238,140 --> /home/robertm/music/Decemberists, The/Kill Rock Stars 20 Year Anniversary Sampler/18 - 16 Military Wives.mp3
 pic not found: /home/robertm/music/Mercenaries/Oh No - Full Length.mp3
 pic not found: /home/robertm/music/Mercenaries/ohnoyoudidnt.mp3
 pic not found: /home/robertm/music/Belafonte, Harry/Singles/Jamaica Farewell.mp3
@@ -121,30 +100,19 @@ pic not found: /home/robertm/music/Belafonte, Harry/Singles/Mary's Boy Child.mp3
 pic not found: /home/robertm/music/Los Lonely Boys/Singles/Heaven.mp3
 pic not found: /home/robertm/music/Gnarls Barkley/Singles/Crazy.mp3
 pic not found: /home/robertm/music/Petty, Tom/01 - Free Fallin.2.mp3
-389,756 --> /home/robertm/music/Oakenfold, Paul/Singles/01 - Killing Time (Paul Oakenfold Remix).mp3
 pic not found: /home/robertm/music/Oakenfold, Paul/Singles/Starry Eyed Surprise.mp3
-370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/07 - Allegro spirituoso.mp3
-370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/08 - Largo.mp3
-370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/09 - Allegretto.mp3
 pic not found: /home/robertm/music/Dirty Projectors/I Dreamed I Saw St. Augustine.mp3
 pic not found: /home/robertm/music/Heap, Imogen/Singles/Hide and Seek.mp3
-213,366 --> /home/robertm/music/Rogers, Tyson/Tyson Plays Floyd - The Floyd Cramer Songbook/01 - On The Rebound.mp3
 pic not found: /home/robertm/music/Glasvegas/Singles/Geraldine.mp3
 pic not found: /home/robertm/music/Jefferson Airplane/Singles/White Rabbit.mp3
 pic not found: /home/robertm/music/Pink Floyd/Singles/Another Brick in the Wall (Part 2).mp3
 pic not found: /home/robertm/music/Crowded House/Singles/Saturday Sun.mp3
 pic not found: /home/robertm/music/Crowded House/Singles/Recurring Dream.mp3
-260,189 --> /home/robertm/music/Cure, The/Greatest Hits/05 - The Lovecats (LP Version).mp3
-260,189 --> /home/robertm/music/Cure, The/Greatest Hits/11 - Lovesong ( LP Version ).mp3
 pic not found: /home/robertm/music/Noah and the Whales/Singles/5 Years Time.mp3
 pic not found: /home/robertm/music/Steel Wheels, The/Scrape Me Off The Ceiling.mp3
-261,425 --> /home/robertm/music/Steel Wheels, The/Sound of Applause.mp3
-271,451 --> /home/robertm/music/Steel Wheels, The/Our Christmas Present/09 - O Come, O Come, Emmanuel.mp3
 pic not found: /home/robertm/music/Costello, Elvis/Singles/Watching the Detectives.mp3
 pic not found: /home/robertm/music/Costello, Elvis/Singles/Veronica.mp3
-166,129 --> /home/robertm/music/Paramore/Riot! (Bonus Track)/04 - Misery Business.mp3
 pic not found: /home/robertm/music/Rolling Stones/Singles/Ruby Tuesday.mp3
-214,766 --> /home/robertm/music/Sir Mix-A-Lot/Return of the Bumpasaurus/Jump On It.mp3
 pic not found: /home/robertm/music/Men Without Hats/Singles/Safety Dance.mp3
 pic not found: /home/robertm/music/Men Without Hats/Singles/Safety Dance (Extended).mp3
 pic not found: /home/robertm/music/Nena/Singles/99 Red Balloons.mp3
@@ -191,23 +159,9 @@ pic not found: /home/robertm/music/Clash, The/Sandinista Project/06 - Something 
 pic not found: /home/robertm/music/Earth, Wind and Fire/Singles/04 - Reasons.mp3
 pic not found: /home/robertm/music/Earth, Wind and Fire/Singles/05 - Way You Move, The.mp3
 pic not found: /home/robertm/music/Earth, Wind and Fire/Singles/03 - Fantasy.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/08 - Flamania.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/05 - Loving You Is A Crime.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/02 - Still A Believer In Love.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/07 - 12 Crazy.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/04 - I've Got You Under My Skin.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/06 - Stand Dance Mix.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/01 - Stand 320.mp3
-348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/03 - Lay Your Love On Me.mp3
 pic not found: /home/robertm/music/Death Cab for Cutie/Singles/For What Reason.mp3
 pic not found: /home/robertm/music/Spalding, Esparanza/Short And Sweet.mp3
 pic not found: /home/robertm/music/Spalding, Esparanza/Fall In.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/03 - Rondeau. Tempo di Menuetto.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/02 - Adagio ma non troppo.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/01 - Allegro maestoso.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/05 - Adagio non troppo.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/06 - Rondo. Allegretto.mp3
-370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/04 - Allegro aperto.mp3
 pic not found: /home/robertm/music/Winwood, Steve/Singles/Valerie.mp3
 pic not found: /home/robertm/music/Devo/Singles/Through Being Cool.mp3
 pic not found: /home/robertm/music/Douglas, Carl/Singles/Kung Fu Fighting.mp3
@@ -215,16 +169,11 @@ pic not found: /home/robertm/music/88, The/Singles/Go Go Go.mp3
 pic not found: /home/robertm/music/Pomplamoose/Mrs Robinson.mp3
 pic not found: /home/robertm/music/Ting Tings, The/Singles/Shut Up and Let Me Go.mp3
 pic not found: /home/robertm/music/Ting Tings, The/Concerts/The Ting TIngs.mp3
-154,997 --> /home/robertm/music/Fun/03 - We Are Young (feat. Janelle Monae).mp3
 pic not found: /home/robertm/music/Townshend, Pete/Singles/Let My Love Open the Door.mp3
 pic not found: /home/robertm/music/Townshend, Pete/Singles/11 - Slit Skirts.mp3
-221,038 --> /home/robertm/music/Madonna/Madonna/02 - Borderline.mp3
 pic not found: /home/robertm/music/Bodyrockers/Singles/I Like the Way.mp3
 pic not found: /home/robertm/music/Wells, HG/War of the Worlds/War of the Worlds.mp3
 pic not found: /home/robertm/music/Squirrel Nut Zippers/Singles/01 - Memphis Exorcism (Live).mp3
-154,330 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/06 - Cocaine.mp3
-213,461 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/05 - Layla.mp3
-213,461 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/02 - After Midnight.mp3
 pic not found: /home/robertm/music/Palmer, Rissi/Singles/Country Girl.mp3
 pic not found: /home/robertm/music/Rawls, Lou/Singles/You'll Never Find.mp3
 pic not found: /home/robertm/music/English Beat/Singles/Save it for Later.mp3
@@ -244,34 +193,25 @@ pic not found: /home/robertm/music/Big Bad Voodoo Daddy/Big Bad Voodoo Daddy/12 
 pic not found: /home/robertm/music/Big Bad Voodoo Daddy/Big Bad Voodoo Daddy/03 - King Of Swing.mp3
 pic not found: /home/robertm/music/Big Bad Voodoo Daddy/Big Bad Voodoo Daddy/07 - Maddest Kind Of Love.mp3
 pic not found: /home/robertm/music/Big Bad Voodoo Daddy/Big Bad Voodoo Daddy/08 - Go Daddy. O.mp3
-224,756 --> /home/robertm/music/Thirty Eight Special/Wild-Eyed Southern Boys/01 - Hold On Loosely.mp3
 pic not found: /home/robertm/music/Bird, Andrew/Concerts/Andrew Bird Concert (part 1).mp3
 pic not found: /home/robertm/music/Bird, Andrew/Concerts/Andrew Bird Concert (part 2).mp3
-332,991 --> /home/robertm/music/Yes/Ultimate Yes/22 - Roundabout [Acoustic Version].mp3
-272,564 --> /home/robertm/music/Yes/Fragile/01 - Roundabout.mp3
 pic not found: /home/robertm/music/Go Team, The/Singles/We Just Won't Be Defeated.mp3
 pic not found: /home/robertm/music/Jones, Norah/Singles/Sunrise.mp3
-248,752 --> /home/robertm/music/Florence and the Machine/Lungs/15 Heavy In Your Arms.mp3
 pic not found: /home/robertm/music/Kingston Trio/Singles/M.T.A..mp3
 pic not found: /home/robertm/music/Relient K/Singles/Maintain Consciousness.mp3
 pic not found: /home/robertm/music/Erlewine, May/Mother Moon/14 - We Are Bossa.mp3
-241,986 --> /home/robertm/music/Little and Ashley/Stole My Heart EP/01 - Stole My Heart.mp3
 pic not found: /home/robertm/music/Hay, Colin/Singles/Beautiful World.mp3
 pic not found: /home/robertm/music/Hay, Colin/Singles/Overkill.mp3
 pic not found: /home/robertm/music/Queen/Singles/Bohemian Rhapsody.mp3
 pic not found: /home/robertm/music/Williams, Keller/Singles/Kidney in a Cooler.mp3
 pic not found: /home/robertm/music/Tchaikovsky, Peter/1812 Overture/1812 Overture.mp3
 pic not found: /home/robertm/music/Killers, The/Sawdust/16 - Romeo And Juliet_v2.mp3
-338,643 --> /home/robertm/music/Killers, The/Sawdust/16 - Romeo And Juliet.mp3
 pic not found: /home/robertm/music/Bowling for Soup/Singles/(Ready or Not) Omaha, Nebraska.mp3
 pic not found: /home/robertm/music/Swell Season/Levis_The__Swell_Season_Young_Hearts_Run_Free.mp3
 pic not found: /home/robertm/music/REM/Singles/Man on the Moon.mp3
 pic not found: /home/robertm/music/REM/Singles/It's the End of the World.mp3
-248,699 --> /home/robertm/music/Roe, Tommy/Tommy Roe's Greatest Hits/01 - Sheila.mp3
 pic not found: /home/robertm/music/Band, The/Singles/Weight, The (Take a Load Off Annie).mp3
 pic not found: /home/robertm/music/Hues Corporation/Singles/Rock the Boat.mp3
-177,293 --> /home/robertm/music/Who, The/Greatest Hits/16 - You Better You Bet.mp3
-151,594 --> /home/robertm/music/Sophie Madeleine/Spooky.mp3
 pic not found: /home/robertm/music/ColdPlay/Singles/02 - Fix You.mp3
 pic not found: /home/robertm/music/ColdPlay/LeftRightLeftRightLeft/01 - Glass Of Water.mp3
 pic not found: /home/robertm/music/DeVotchka/Singles/How It Ends.mp3
@@ -284,10 +224,8 @@ pic not found: /home/robertm/music/Jackson, Joe/Singles/Steppin' Out (copy).mp3
 pic not found: /home/robertm/music/Jackson, Joe/Singles/Steppin' Out.mp3
 pic not found: /home/robertm/music/O'Connor, Sinead/Singles/Nothing Compares 2U.mp3
 pic not found: /home/robertm/music/Maroon 5/Singles/This Love.mp3
-310,165 --> /home/robertm/music/Widick, Douglas/01 - Hipsters (Are Roaming the Campus).mp3
 pic not found: /home/robertm/music/Johnson, Jack/Singles/Sitting, Waiting, Wishing.mp3
 pic not found: /home/robertm/music/Buckingham, Lindsey/holidayroad.mp3
-203,237 --> /home/robertm/music/Bush/Zen X Four/01 - Comedown (Acoustic).mp3
 pic not found: /home/robertm/music/Schultz, Mark/Singles/Remember Me.mp3
 pic not found: /home/robertm/music/Payne, Freda/Singles/Band of Gold.mp3
 pic not found: /home/robertm/music/Raconteurs/Singles/Steady As She Goes.mp3
@@ -297,7 +235,75 @@ pic not found: /home/robertm/music/Fisher/Singles/Wheel.mp3
 pic not found: /home/robertm/music/Gabriel, Peter/Singles/Solsbury Hill.mp3
 pic not found: /home/robertm/music/Spider Bait/Singles/Black Betty.mp3
 pic not found: /home/robertm/music/Gilberto, Bebel/Singles/Um Segundo.mp3
-ttl files processed: 5059
-ttl file size: 42,880,434,439
-ttl over sized covers: 72
-ttl missing covers: 227
+212,421 --> /home/robertm/music/Thorn, Tracey/Why Does the Wind_/01 - Why Does the Wind_ (Ewan Pearson Radio Edit).mp3
+340,417 --> /home/robertm/music/Joplin, Janis/Janis Joplin's Greatest Hits/05 - Me And Bobby McGee.mp3
+205,877 --> /home/robertm/music/John, Elton/Greatest Hits Volume 2/03 - Tiny Dancer.mp3
+169,252 --> /home/robertm/music/Robinson, Vicki Sue/Disco Gold/04 - Turn The Beat Around.mp3
+177,536 --> /home/robertm/music/Hooters/Five By Five/02 - Time After Time.mp3
+236,022 --> /home/robertm/music/Mannheim Steamroller/Mannheim Steamroller Christmas 25th Anniversary Collection/10 - Pat A Pan.mp3
+363,140 --> /home/robertm/music/Martin, Steve/Rare Bird Alert/12 - Atheists Don't Have No Songs.mp3
+363,140 --> /home/robertm/music/Martin, Steve/Rare Bird Alert/12 - Atheists Don't Have No Songs (copy).mp3
+203,610 --> /home/robertm/music/Davis, Miles/You're Under Arrest/07 - Time After Time.mp3
+228,104 --> /home/robertm/music/Malo, Raul/Sinners and Saints/09 - Saint Behind The Glass.mp3
+213,071 --> /home/robertm/music/Henley, Don/Building The Perfect Beast/01 - The Boys Of Summer.mp3
+213,071 --> /home/robertm/music/Henley, Don/Building The Perfect Beast/09 - Sunset Grill.mp3
+251,566 --> /home/robertm/music/Barber, Samuel/Adagio/01 - Adagio for Strings Op. 11.mp3
+335,214 --> /home/robertm/music/Blind Pilot/Keep You Right/01 - Keep You Right.mp3
+282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/04 - We Are the Tide.mp3
+282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/01 - Keep You Right.mp3
+282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/03 - Half Moon.mp3
+282,368 --> /home/robertm/music/Blind Pilot/World Cafe - WXPN/02 - The Colored Night.mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/09 - F.O.H. [Explicit].mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/13 - Searching For A Father [Explicit].mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/04 - Going Up [Explicit].mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/05 - Bangers, Beans and Mash [Explicit].mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/10 - Yeah Yeah Oi Oi [Explicit].mp3
+171,584 --> /home/robertm/music/Get Him To The Greek [Explicit]/06 - The Clap [Explicit].mp3
+312,645 --> /home/robertm/music/Flo Rida/Club Can't Handle Me/01 - Club Can't Handle Me (Feat. David Guetta).mp3
+298,704 --> /home/robertm/music/Dion/Runaround Sue/05 - The Wanderer.mp3
+404,955 --> /home/robertm/music/Features, The/Some Kind Of Salvation/10 - Lions.mp3
+310,682 --> /home/robertm/music/Elfman, Danny/Alice in Wonderland/01 - Alice's Theme.mp3
+190,852 --> /home/robertm/music/Coulton, Jonathan/Singles/01 - Baby Got Back (In the Style of Glee).mp3
+300,373 --> /home/robertm/music/Decemberists, The/Picaresque/07 - 16 Military Wives.mp3
+238,140 --> /home/robertm/music/Decemberists, The/Kill Rock Stars 20 Year Anniversary Sampler/18 - 16 Military Wives.mp3
+389,756 --> /home/robertm/music/Oakenfold, Paul/Singles/01 - Killing Time (Paul Oakenfold Remix).mp3
+370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/07 - Allegro spirituoso.mp3
+370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/08 - Largo.mp3
+370,128 --> /home/robertm/music/Salieri, Antonio/Flute and Oboe Concerto/09 - Allegretto.mp3
+213,366 --> /home/robertm/music/Rogers, Tyson/Tyson Plays Floyd - The Floyd Cramer Songbook/01 - On The Rebound.mp3
+260,189 --> /home/robertm/music/Cure, The/Greatest Hits/05 - The Lovecats (LP Version).mp3
+260,189 --> /home/robertm/music/Cure, The/Greatest Hits/11 - Lovesong ( LP Version ).mp3
+261,425 --> /home/robertm/music/Steel Wheels, The/Sound of Applause.mp3
+271,451 --> /home/robertm/music/Steel Wheels, The/Our Christmas Present/09 - O Come, O Come, Emmanuel.mp3
+166,129 --> /home/robertm/music/Paramore/Riot! (Bonus Track)/04 - Misery Business.mp3
+214,766 --> /home/robertm/music/Sir Mix-A-Lot/Return of the Bumpasaurus/Jump On It.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/08 - Flamania.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/05 - Loving You Is A Crime.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/02 - Still A Believer In Love.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/07 - 12 Crazy.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/04 - I've Got You Under My Skin.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/06 - Stand Dance Mix.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/01 - Stand 320.mp3
+348,657 --> /home/robertm/music/Flamingo Orkestra/Flamingo Orkestra Featuring Cynthia Manley/03 - Lay Your Love On Me.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/03 - Rondeau. Tempo di Menuetto.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/02 - Adagio ma non troppo.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV313 - Flute Concerto/01 - Allegro maestoso.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/05 - Adagio non troppo.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/06 - Rondo. Allegretto.mp3
+370,128 --> /home/robertm/music/Mozart, Wolfgang Amadeus/KV314 - Flute Concerto/04 - Allegro aperto.mp3
+154,997 --> /home/robertm/music/Fun/03 - We Are Young (feat. Janelle Monae).mp3
+221,038 --> /home/robertm/music/Madonna/Madonna/02 - Borderline.mp3
+154,330 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/06 - Cocaine.mp3
+213,461 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/05 - Layla.mp3
+213,461 --> /home/robertm/music/Clapton, Eric/Best Of Eric Clapton, The - 20th Century Masters The Millennium Collection/02 - After Midnight.mp3
+224,756 --> /home/robertm/music/Thirty Eight Special/Wild-Eyed Southern Boys/01 - Hold On Loosely.mp3
+332,991 --> /home/robertm/music/Yes/Ultimate Yes/22 - Roundabout [Acoustic Version].mp3
+272,564 --> /home/robertm/music/Yes/Fragile/01 - Roundabout.mp3
+248,752 --> /home/robertm/music/Florence and the Machine/Lungs/15 Heavy In Your Arms.mp3
+241,986 --> /home/robertm/music/Little and Ashley/Stole My Heart EP/01 - Stole My Heart.mp3
+338,643 --> /home/robertm/music/Killers, The/Sawdust/16 - Romeo And Juliet.mp3
+248,699 --> /home/robertm/music/Roe, Tommy/Tommy Roe's Greatest Hits/01 - Sheila.mp3
+177,293 --> /home/robertm/music/Who, The/Greatest Hits/16 - You Better You Bet.mp3
+151,594 --> /home/robertm/music/Sophie Madeleine/Spooky.mp3
+310,165 --> /home/robertm/music/Widick, Douglas/01 - Hipsters (Are Roaming the Campus).mp3
+203,237 --> /home/robertm/music/Bush/Zen X Four/01 - Comedown (Acoustic).mp3

@@ -27,8 +27,8 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    oversized_covers = 0
-    missing_covers = 0
+    oversized_covers = []
+    missing_covers = []
     path = '/home/robertm/music'
     # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
@@ -47,19 +47,27 @@ def main():
                         pic_not_found = False
                         data = tags[i].data
                         if sys.getsizeof(data) > 150000:
-                            oversized_covers += 1
-                            print(f'{sys.getsizeof(data):,} --> {f}')
+                            oversized_covers.append(f'{sys.getsizeof(data):,} --> {f}')
                         break
 
                 if pic_not_found:
-                    print(f'pic not found: {f}')
-                    missing_covers += 1
+                    missing_covers.append(f'pic not found: {f}')
 
                 mp3 = MP3File(f)
+
+    print(f'\n\n')
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
-    print(f'ttl over sized covers: {oversized_covers}')
-    print(f'ttl missing covers: {missing_covers}')
+    print(f'ttl over sized covers: {len(oversized_covers)}')
+    print(f'ttl missing covers: {len(missing_covers)}')
+    print(f'\n\n')
+
+    for i in missing_covers:
+        print(f'{i}')
+
+    for i in oversized_covers:
+        print(f'{i}')
+
 
 if __name__ == '__main__':
     main()
