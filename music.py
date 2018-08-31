@@ -1,7 +1,7 @@
 from mutagen.id3 import ID3
 from mutagen import File
 from track import Track
-
+import sys
 
 def get_artist_from_file(file):
     meta = ID3(file)
@@ -33,6 +33,7 @@ def get_cover_data_from_file(file):
     for i in mp3.tags:
         if i.startswith('APIC'):
             data = mp3.tags[i].data
+            print(f'{sys.getsizeof(data)}:\t{file}')
             return data
 
 
