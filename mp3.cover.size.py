@@ -28,7 +28,8 @@ def main():
     logger.debug('Entering main')
 
     oversized_covers = 0
-    path = '/home/robertm/programming/musictags/music'
+    missing_covers = 0
+    path = '/home/robertm/music'
     # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -52,12 +53,13 @@ def main():
 
                 if pic_not_found:
                     print(f'pic not found: {f}')
+                    missing_covers += 1
 
                 mp3 = MP3File(f)
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
     print(f'ttl over sized covers: {oversized_covers}')
-
+    print(f'ttl missing covers: {missing_covers}')
 
 if __name__ == '__main__':
     main()
