@@ -27,8 +27,9 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    oversized_covers = 0
-    path = '/home/robertm/programming/musictags/music'
+    oversized_covers = []
+    missing_covers = []
+    path = '/home/robertm/music'
     # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -45,6 +46,7 @@ def main():
                     if i.startswith('APIC'):
                         pic_not_found = False
                         data = tags[i].data
+<<<<<<< HEAD
                         size = sys.getsizeof(data)
                         if size > 150000:
                             oversized_covers += 1
@@ -52,15 +54,29 @@ def main():
                         elif size < 10000:
                             # looking for the generic cover ... album.jpg
                             print(f'{size} // this may be the placeholder // {file}')
+=======
+                        if sys.getsizeof(data) > 150000:
+                            oversized_covers.append(f'{sys.getsizeof(data):,} --> {f}')
+>>>>>>> 60cd1c44bfcbb33e2ed9a49c7492ddddbd9c28ed
                         break
 
                 if pic_not_found:
-                    print(f'pic not found: {f}')
+                    missing_covers.append(f'pic not found: {f}')
 
                 mp3 = MP3File(f)
+
+    print(f'\n\n')
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
-    print(f'ttl over sized covers: {oversized_covers}')
+    print(f'ttl over sized covers: {len(oversized_covers)}')
+    print(f'ttl missing covers: {len(missing_covers)}')
+    print(f'\n\n')
+
+    for i in missing_covers:
+        print(f'{i}')
+
+    for i in oversized_covers:
+        print(f'{i}')
 
 
 if __name__ == '__main__':
