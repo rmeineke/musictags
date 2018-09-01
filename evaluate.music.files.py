@@ -19,10 +19,6 @@ def main():
     for root, dirs, files in os.walk(path):
         for file in files:
             f = os.path.join(root, file)
-<<<<<<< HEAD
-            # print(f'{f}')
-=======
->>>>>>> 60cd1c44bfcbb33e2ed9a49c7492ddddbd9c28ed
             if file.lower().endswith('.flac'):
                 # print(f'evaluate flac file: {file}')
                 evaluate_flac(f)
@@ -30,7 +26,7 @@ def main():
                 # print(f'evaluate mp3 file: {file}')
                 try:
                     track = evaluate_mp3(f)
-                    print(f'{track.track_num}')
+                    # print(f'{track.track_num}')
                 except KeyError as e:
                     with open('00_key_errors.txt', 'a') as f_obj:
                         f_obj.write(f'{f}\n\t{e}\n')

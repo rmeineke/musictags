@@ -33,13 +33,9 @@ def get_cover_data_from_file(file):
     for i in mp3.tags:
         if i.startswith('APIC'):
             data = mp3.tags[i].data
-<<<<<<< HEAD
-            # print(f'{type(data)}')
-=======
             print(f'{sys.getsizeof(data)}:\t{file}')
->>>>>>> 60cd1c44bfcbb33e2ed9a49c7492ddddbd9c28ed
             return data
-    print(f'\n\n>>>>>>  ####### ######### no cover found: {file}')
+    print(f'\n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\nno cover found: {file}')
 
 
 def evaluate_mp3(file):
