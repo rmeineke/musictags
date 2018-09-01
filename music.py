@@ -33,21 +33,22 @@ def get_cover_data_from_file(file):
     for i in mp3.tags:
         if i.startswith('APIC'):
             data = mp3.tags[i].data
+            # print(f'{type(data)}')
             return data
+    print(f'\n\n>>>>>>  ####### ######### no cover found: {file}')
 
 
 def evaluate_mp3(file):
-    print(f'entering evaluate_mp3: {file}')
+    # print(f'entering evaluate_mp3: {file}')
     artist = get_artist_from_file(file)
     band = get_band_from_file(file)
     track_title = get_track_title_from_file(file)
     album_title = get_album_title_from_file(file)
     track_num = get_track_num_from_file(file)
     pic_data = get_cover_data_from_file(file)
-    # with open('cover.jpg', 'wb') as f_obj:
-    #     f_obj.write(data)
     return Track(file, artist, band, track_title, album_title, track_num, pic_data)
 
 
 def evaluate_flac(file):
-    print(f'entering evaluate_flac: file')
+    # print(f'entering evaluate_flac: {file}')
+    pass

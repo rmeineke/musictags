@@ -45,9 +45,13 @@ def main():
                     if i.startswith('APIC'):
                         pic_not_found = False
                         data = tags[i].data
-                        if sys.getsizeof(data) > 150000:
+                        size = sys.getsizeof(data)
+                        if size > 150000:
                             oversized_covers += 1
-                            print(f'{sys.getsizeof(data):,} --> {f}')
+                            print(f'{size:,} --> {f}')
+                        elif size < 10000:
+                            # looking for the generic cover ... album.jpg
+                            print(f'{size} // this may be the placeholder // {file}')
                         break
 
                 if pic_not_found:
