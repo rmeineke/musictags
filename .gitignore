@@ -7,5 +7,4 @@ __pycache__
 *.jpg
 *.jpeg
 *.png
-00_key_errors.txt
-00_stray_files.txt
+00_*
