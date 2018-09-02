@@ -29,7 +29,7 @@ def main():
 
     oversized_covers = []
     missing_covers = []
-    path = '/home/robertm/music'
+    path = '/home/robertm/programming/musictags/music'
     # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -48,12 +48,10 @@ def main():
                         data = tags[i].data
                         size = sys.getsizeof(data)
                         if size > 150000:
-                            print(f'{size:,} --> {f}')
+                            oversized_covers.append(f'{size} /// {f}')
                         elif size < 10000:
                             # looking for the generic cover ... album.jpg
                             print(f'{size} // this may be the placeholder // {f}')
-                        if sys.getsizeof(data) > 150000:
-                            oversized_covers.append(f'{sys.getsizeof(data):,} --> {f}')
                         break
 
                 if pic_not_found:
@@ -61,16 +59,16 @@ def main():
 
                 mp3 = MP3File(f)
 
-    print(f'\n\n')
+    print(f'\n')
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
     print(f'ttl file size: {MP3File.ttl_file_size:,}')
     print(f'ttl over sized covers: {len(oversized_covers)}')
     print(f'ttl missing covers: {len(missing_covers)}')
-    print(f'\n\n')
+    print(f'\n')
 
     for i in missing_covers:
         print(f'{i}')
-
+    print(f'\n\n')
     for i in oversized_covers:
         print(f'{i}')
 
