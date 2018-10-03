@@ -29,8 +29,8 @@ def main():
 
     oversized_covers = []
     missing_covers = []
-    path = '/home/robertm/programming/musictags/music'
-    # path = '/home/robertm/music'
+    # path = '/home/robertm/programming/musictags/music'
+    path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.mp3'):
