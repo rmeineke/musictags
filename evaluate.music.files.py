@@ -6,7 +6,7 @@ from track import Track
 def main():
     print(f'\nChoose path:\n')
     print(f'1: path1 = /home/robertm/programming/musictags/music')
-    print(f'2: path2 = /home/robertm/musc')
+    print(f'2: path2 = /home/robertm/music')
     resp = int(input())
     path = ''
     if resp == 1:
