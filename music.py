@@ -7,6 +7,7 @@ import sys
 def get_artist_from_file(file, filetype):
     if filetype == 'mp3':
         meta = ID3(file)
+        #print(meta['TIT2'])
         return meta['TPE1']
     else:
         mutobj = File(file, easy=True)
@@ -54,6 +55,7 @@ def get_track_num_from_file(file, filetype):
         print(f'{mutobj["tracknumber"][0]}')
         return mutobj["tracknumber"][0]
 
+
 def get_cover_data_from_file(file, filetype):
     if filetype == 'mp3':
         mp3 = File(file)
@@ -69,12 +71,20 @@ def get_cover_data_from_file(file, filetype):
 
 def evaluate_mp3(file):
     print(f'entering evaluate_mp3: {file}')
-    artist = get_artist_from_file(file, 'mp3')
-    band = get_band_from_file(file, 'mp3')
-    track_title = get_track_title_from_file(file, 'mp3')
-    album_title = get_album_title_from_file(file, 'mp3')
-    track_num = get_track_num_from_file(file, 'mp3')
-    pic_data = get_cover_data_from_file(file, 'mp3')
+    meta = ID3(file)
+    print(type(meta))
+    print(f"rsm >> {meta['TIT2']}")
+    print(f"rsm >> {meta['TALB']}")
+    print(f"rsm >> {meta['TRCK']}")
+    print('--------------------------------')
+    # print(meta['TIT2'])
+    # return meta['TPE1']
+    # artist = get_artist_from_file(file, 'mp3')
+    # band = get_band_from_file(file, 'mp3')
+    # track_title = get_track_title_from_file(file, 'mp3')
+    # album_title = get_album_title_from_file(file, 'mp3')
+    # track_num = get_track_num_from_file(file, 'mp3')
+    # pic_data = get_cover_data_from_file(file, 'mp3')
     return Track(file, artist, band, track_title, album_title, track_num, pic_data)
 
 
