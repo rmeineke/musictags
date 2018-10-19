@@ -1,3 +1,6 @@
+# this walks the music directory and
+# collects/prints the file extensions
+# that are found.
 import os
 
 collected_exts = []

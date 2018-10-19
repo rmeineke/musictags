@@ -20,10 +20,10 @@ def main():
         for file in files:
             f = os.path.join(root, file)
             if file.lower().endswith('.flac'):
-                # print(f'evaluate flac file: {file}')
+                print(f'evaluate flac file: {file}')
                 evaluate_flac(f)
             elif file.lower().endswith('.mp3'):
-                # print(f'evaluate mp3 file: {file}')
+                print(f'evaluate mp3 file: {file}')
                 try:
                     track = evaluate_mp3(f)
                     # print(f'{track.track_num}')
