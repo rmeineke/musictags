@@ -4,6 +4,29 @@ from track import Track
 import sys
 
 
+def get_metadata_from_file(file, filetype):
+    if filetype == 'mp3':
+        print(f'checking an mp3 file')
+        meta = ID3(file)
+        artist = meta['TPE1']
+        band = meta['TPE2']
+        track_title = meta['TIT2']
+        album_title = meta['TALB']
+        track_num = meta['TRCK']
+        pic_data = meta['APIC']
+    else:
+        print(f'checking a flac file')
+        mutobj = File(file, easy=True)
+        artist = mutobj["albumartist"][0]
+        band = mutobj["artist"][0]
+        track_title = mutobj["title"][0]
+        album_title = mutobj["album"][0]
+        track_num =  mutobj["tracknumber"][0]
+        pic_data = ''
+
+    return Track(file, artist, band, track_title, album_title, track_num, pic_data)
+
+
 def get_artist_from_file(file, filetype):
     if filetype == 'mp3':
         meta = ID3(file)
@@ -73,12 +96,15 @@ def evaluate_mp3(file):
     print(f'entering evaluate_mp3: {file}')
     meta = ID3(file)
     print(type(meta))
-    print(f"rsm >> {meta['TIT2']}")
-    print(f"rsm >> {meta['TALB']}")
-    print(f"rsm >> {meta['TRCK']}")
+    print(meta)
+    print(f"rsm >> track title: {meta['TIT2']}")
+    print(f"rsm >> album title: {meta['TALB']}")
+    print(f"rsm >> track number: {meta['TRCK']}")
+    print(f"rsm >> artist: {meta['TPE1']}")
+    print(f"rsm >> album artist: {meta['TPE2']}")
+    print(f"{meta['APIC']}")
+
     print('--------------------------------')
-    # print(meta['TIT2'])
-    # return meta['TPE1']
     # artist = get_artist_from_file(file, 'mp3')
     # band = get_band_from_file(file, 'mp3')
     # track_title = get_track_title_from_file(file, 'mp3')

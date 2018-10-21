@@ -1,5 +1,5 @@
 import os
-from music import evaluate_mp3, evaluate_flac
+from music import get_metadata_from_file
 from track import Track
 
 
@@ -19,19 +19,20 @@ def main():
     for root, dirs, files in os.walk(path):
         for file in files:
             f = os.path.join(root, file)
-            if file.lower().endswith('.flac'):
-                print(f'evaluate flac file: {file}')
-                evaluate_flac(f)
-            elif file.lower().endswith('.mp3'):
-                print(f'evaluate mp3 file: {file}')
+            print(f'file: {file}')
+            print(f'f: {f}')
+            _, filetype = os.path.splitext(f)
+            if f.lower().endswith('.flac') or f.lower().endswith('.mp3'):
+                print(f'evaluate: {file}')
                 try:
-                    track = evaluate_mp3(f)
-                    # print(f'{track.track_num}')
+                    track = get_metadata_from_file(f, filetype)
+                    # print(f'{track}')
                 except KeyError as e:
                     with open('00_key_errors.txt', 'a') as f_obj:
                         f_obj.write(f'{f}\n\t{e}\n')
             else:
                 with open('00_stray_files.txt', 'a') as f_obj:
+                    print(f'stray: {file}')
                     f_obj.write(f"I don't know what to do with this:\n\t{f}\n")
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
     print(f'ttl_file_size: {Track.ttl_file_size:,}')

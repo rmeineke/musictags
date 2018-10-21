@@ -22,4 +22,4 @@ class Track:
         return self.__track_num
 
     def __str__(self):
-        pass
+        return f'artist: {self.__artist} // track_title: {self.__track_title}'
