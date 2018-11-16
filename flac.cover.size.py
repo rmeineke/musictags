@@ -27,8 +27,8 @@ def main():
 
     oversized_covers = []
     missing_covers = []
-    path = '/home/robertm/programming/musictags/music'
-    #path = '/home/robertm/music'
+    # path = '/home/robertm/programming/musictags/music'
+    path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.flac'):
@@ -41,6 +41,19 @@ def main():
                     else:
                         print(f'{pics}')
                         for p in pics:
+                            # p.mime
+                            #  - or mime_type
+                            # p.desc
+                            #
+                            # picture = Picture()
+                            # picture.data = data
+                            # picture.type = 17
+                            # picture.desc = u"A bright coloured fish"
+                            # picture.mime = u"image/jpeg"
+                            # picture.width = 100
+                            # picture.height = 100
+                            # picture.depth = 24
+
                             print(f'{p.type}')
                             size = sys.getsizeof(p.data)
                             print(f'{size}')
