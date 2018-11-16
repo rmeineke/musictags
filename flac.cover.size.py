@@ -40,7 +40,15 @@ def main():
                         missing_covers.append(f'pic not found: {f}')
                     else:
                         print(f'{pics}')
-                except:
+                        for p in pics:
+                            print(f'{p.type}')
+                            size = sys.getsizeof(p.data)
+                            print(f'{size}')
+                            if p.type != 3:
+                                print(f'\n\n\n >>>>>>>>>{p.type}')
+
+                except Exception as e:
+                    print(f'{e}')
                     print(f'...................{f}')
 
                 flacfile = FLACFile(f)
