@@ -1,11 +1,13 @@
 from mutagen.id3 import ID3
 from mutagen import File
+from mutagen.flac import FLAC
 from track import Track
 import sys
 
 
 def get_metadata_from_file(file, filetype):
-    if filetype == 'mp3':
+    # print(f'type: {filetype}')
+    if filetype == '.mp3':
         print(f'checking an mp3 file')
         meta = ID3(file)
         artist = meta['TPE1']
@@ -23,6 +25,19 @@ def get_metadata_from_file(file, filetype):
         album_title = mutobj["album"][0]
         track_num =  mutobj["tracknumber"][0]
         pic_data = ''
+        var = FLAC(file)
+        pics = var.pictures
+        if len(pics) == 0:
+            print('----------------------------------------------------')
+            print(f'{file}')
+            print('has no picture >>>>>>>>>>>')
+            print('----------------------------------------------------')
+        else:
+            print(f'{pics}')
+        for p in pics:
+            print(f'{p.type}')
+            if p.type != 3:
+                print(f'\n\n\n >>>>>>>>>{p.type}')
 
     return Track(file, artist, band, track_title, album_title, track_num, pic_data)
 

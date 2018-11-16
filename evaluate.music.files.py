@@ -26,7 +26,7 @@ def main():
                 print(f'evaluate: {file}')
                 try:
                     track = get_metadata_from_file(f, filetype)
-                    # print(f'{track}')
+                    print(f'{track}')
                 except KeyError as e:
                     with open('00_key_errors.txt', 'a') as f_obj:
                         f_obj.write(f'{f}\n\t{e}\n')
