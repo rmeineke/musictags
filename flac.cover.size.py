@@ -55,7 +55,7 @@ def main():
                     print(f'...................{f}')
 
                 flacfile = FLACFile(f)
-                
+
     print(f'\n')
     print(f'ttl files processed: {FLACFile.ttl_files_processed}')
     print(f'ttl file size: {FLACFile.ttl_file_size:,}')

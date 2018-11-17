@@ -1,4 +1,17 @@
 import os
+import random
+
+import random
+
+
+def random_id(length):
+    number = '0123456789'
+    alpha = 'abcdefghijklmnopqrstuvwxyz'
+    id = ''
+    for i in range(0, length, 2):
+        id += random.choice(number)
+        id += random.choice(alpha)
+    return id
 
 
 class Track:
@@ -23,3 +36,14 @@ class Track:
 
     def __str__(self):
         return f'artist: {self.__artist} // track_title: {self.__track_title}'
+
+    def extract_image(self):
+        print(f'{self.__track_title}')
+        fn = '/home/robertm/Desktop/mut/' + random_id(4) + '.jpg'
+        print(f'{fn}')
+        with open(fn, 'wb') as output:
+            output.write(self.__pic_data)
+
+
+
+
