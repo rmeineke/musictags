@@ -27,6 +27,7 @@ def main():
                 try:
                     track = get_metadata_from_file(f, filetype)
                     # print(f'{track}')
+                    Track.extract_image(track)
                 except KeyError as e:
                     with open('00_key_errors.txt', 'a') as f_obj:
                         f_obj.write(f'{f}\n\t{e}\n')
@@ -34,8 +35,6 @@ def main():
                 with open('00_stray_files.txt', 'a') as f_obj:
                     print(f'stray: {file}')
                     f_obj.write(f"I don't know what to do with this:\n\t{f}\n")
-
-            Track.extract_image(track)
 
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
     print(f'ttl_file_size: {Track.ttl_file_size:,}')

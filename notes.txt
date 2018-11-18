@@ -160,3 +160,10 @@ audio.tags.add(
 )
 audio.save([PATH_TO_FILE], v2_version=3, v1=2)
 
+////////////////////
+assed_Off!.8z5d.jpg
+Brassed Off!
+Various
+/home/robertm/Desktop/mut/Brassed_Off!.8q7s.jpg
+ttl_tracks_processed: 8665
+ttl_file_size: 258,730,484,963

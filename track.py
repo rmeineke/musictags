@@ -38,8 +38,12 @@ class Track:
         return f'artist: {self.__artist} // track_title: {self.__track_title}'
 
     def extract_image(self):
-        print(f'{self.__track_title}')
-        fn = '/home/robertm/Desktop/mut/' + random_id(4) + '.jpg'
+        print(f'{self.__album_title}')
+        print(f'{self.__artist}')
+        title = self.__album_title
+        title = title.replace(' ', '_')
+        title = title.replace('/', '_')
+        fn = '/home/robertm/Desktop/mut/' + title + '.' + random_id(4) + '.jpg'
         print(f'{fn}')
         with open(fn, 'wb') as output:
             output.write(self.__pic_data)
