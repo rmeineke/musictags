@@ -41,8 +41,10 @@ def main():
                     else:
                         # print(f'{pics}')
                         for p in pics:
+                            if p.mime == 'image/png':
+                                print(f'Found PNG: {f}')
                             if p.type != 3:
-                                print(f'\n\n\n >>>>>>>>>{p.type}')
+                                print(f'Found ODD cover: {p.type} -> {f}')
                             size = sys.getsizeof(p.data)
                             if size > 150000:
                                 oversized_covers.append(f'{size} /// {f}')
