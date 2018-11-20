@@ -43,8 +43,11 @@ def main():
                 pic_not_found = True
                 tags = mutagen.mp3.Open(f)
                 for i in tags:
+                    # print(f'{type(i)} -- {i}')
                     if i.startswith('APIC'):
                         pic_not_found = False
+                        if tags[i].mime == "image/png":
+                            print(f'PNG >> {f}')
                         data = tags[i].data
                         size = sys.getsizeof(data)
                         if size > 150000:
