@@ -27,6 +27,8 @@ def main():
 
     oversized_covers = []
     missing_covers = []
+    png_covers = []
+    odd_covers = []
     # path = '/home/robertm/programming/musictags/music'
     path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
@@ -42,9 +44,9 @@ def main():
                         # print(f'{pics}')
                         for p in pics:
                             if p.mime == 'image/png':
-                                print(f'Found PNG: {f}')
+                                png_covers.append(f'Found PNG: {f}')
                             if p.type != 3:
-                                print(f'Found ODD cover: {p.type} -> {f}')
+                                odd_covers.append(f'Found ODD cover: {p.type} -> {f}')
                             size = sys.getsizeof(p.data)
                             if size > 150000:
                                 oversized_covers.append(f'{size} /// {f}')
@@ -58,18 +60,29 @@ def main():
 
                 flacfile = FLACFile(f)
 
+    print(f'\n############ Missing Covers')
+    for i in missing_covers:
+        print(f'{i}')
+    print(f'\n############ Oversized Covers')
+    for i in oversized_covers:
+        print(f'{i}')
+    print(f'\n############ Odd Cover Types')
+    for i in odd_covers:
+        print(f'{i}')
+    print(f'\n############ PNG Covers')
+    for i in png_covers:
+        print(f'{i}')
+
     print(f'\n')
     print(f'ttl files processed: {FLACFile.ttl_files_processed}')
     print(f'ttl file size: {FLACFile.ttl_file_size:,}')
     print(f'ttl over sized covers: {len(oversized_covers)}')
     print(f'ttl missing covers: {len(missing_covers)}')
+    print(f'ttl PNG covers: {len(png_covers)}')
+    print(f'ttl ODD cover types: {len(odd_covers)}')
     print(f'\n')
 
-    for i in missing_covers:
-        print(f'{i}')
-    print(f'\n\n')
-    for i in oversized_covers:
-        print(f'{i}')
+
 
 
 if __name__ == '__main__':
