@@ -5,6 +5,12 @@ from mutagen.flac import FLAC
 from flacfile import FLACFile
 
 
+def get_path_from_config():
+    with open('config.ini', 'r') as cfg:
+
+    return 'test...path'
+
+
 def main():
     # set up for logging
     LEVELS = {'debug': logging.DEBUG,
@@ -25,12 +31,16 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
+    config = get_path_from_config()
+    # path = '/home/robertm/programming/musictags/music'
+    # path = '/home/robertm/music'
+    print(f'{config}')
+    exit(0)
+
     oversized_covers = []
     missing_covers = []
     png_covers = []
     odd_covers = []
-    path = '/home/robertm/programming/musictags/music'
-    # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.flac'):
@@ -81,8 +91,6 @@ def main():
     print(f'ttl PNG covers: {len(png_covers)}')
     print(f'ttl ODD cover types: {len(odd_covers)}')
     print(f'\n')
-
-
 
 
 if __name__ == '__main__':
