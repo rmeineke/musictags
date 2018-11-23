@@ -29,8 +29,8 @@ def main():
     missing_covers = []
     png_covers = []
     odd_covers = []
-    # path = '/home/robertm/programming/musictags/music'
-    path = '/home/robertm/music'
+    path = '/home/robertm/programming/musictags/music'
+    # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.flac'):

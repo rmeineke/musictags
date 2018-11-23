@@ -29,8 +29,8 @@ def main():
 
     oversized_covers = []
     missing_covers = []
-    # path = '/home/robertm/programming/musictags/music'
-    path = '/home/robertm/music'
+    path = '/home/robertm/programming/musictags/music'
+    # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.mp3'):
@@ -62,12 +62,7 @@ def main():
 
                 mp3 = MP3File(f)
 
-    print(f'\n')
-    print(f'ttl files processed: {MP3File.ttl_files_processed}')
-    print(f'ttl file size: {MP3File.ttl_file_size:,}')
-    print(f'ttl over sized covers: {len(oversized_covers)}')
-    print(f'ttl missing covers: {len(missing_covers)}')
-    print(f'\n')
+
 
     for i in missing_covers:
         print(f'{i}')
@@ -75,6 +70,13 @@ def main():
     for i in oversized_covers:
         print(f'{i}')
 
+
+    print(f'\n')
+    print(f'ttl files processed: {MP3File.ttl_files_processed}')
+    print(f'ttl file size: {MP3File.ttl_file_size:,}')
+    print(f'ttl over sized covers: {len(oversized_covers)}')
+    print(f'ttl missing covers: {len(missing_covers)}')
+    print(f'\n')
 
 if __name__ == '__main__':
     main()
