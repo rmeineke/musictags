@@ -7,8 +7,8 @@ from flacfile import FLACFile
 
 def get_path_from_config():
     with open('config.ini', 'r') as cfg:
-
-    return 'test...path'
+        path = cfg.readline()
+        return path
 
 
 def main():
@@ -31,11 +31,13 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    config = get_path_from_config()
-    # path = '/home/robertm/programming/musictags/music'
+    path = get_path_from_config()
     # path = '/home/robertm/music'
-    print(f'{config}')
-    exit(0)
+    if len(path) < 8:
+        print(f'seems to be something wrong here: {path}')
+        exit(1)
+    else:
+        path = path.strip()
 
     oversized_covers = []
     missing_covers = []
