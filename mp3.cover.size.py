@@ -1,10 +1,13 @@
-import os
 import logging
+import os
 import sys
-from mp3file import MP3File
+
+import mutagen.mp3
 from mutagen.id3 import ID3
 from mutagen.id3 import ID3NoHeaderError
-import mutagen.mp3
+
+from lib import utils
+from mp3file import MP3File
 
 
 def main():
@@ -29,8 +32,16 @@ def main():
 
     oversized_covers = []
     missing_covers = []
-    path = '/home/robertm/programming/musictags/music'
-    # path = '/home/robertm/music'
+
+    path = utils.get_path_from_config()
+    if len(path) < 8:
+        print(f'seems to be something wrong here: {path}')
+        exit(1)
+    else:
+        path = path.strip()
+
+    # path = '/home/robertm/programming/musictags/music'
+    # # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.mp3'):
@@ -62,14 +73,11 @@ def main():
 
                 mp3 = MP3File(f)
 
-
-
     for i in missing_covers:
         print(f'{i}')
     print(f'\n\n')
     for i in oversized_covers:
         print(f'{i}')
-
 
     print(f'\n')
     print(f'ttl files processed: {MP3File.ttl_files_processed}')
@@ -77,6 +85,7 @@ def main():
     print(f'ttl over sized covers: {len(oversized_covers)}')
     print(f'ttl missing covers: {len(missing_covers)}')
     print(f'\n')
+
 
 if __name__ == '__main__':
     main()

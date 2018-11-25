@@ -3,6 +3,7 @@ import logging
 import sys
 from mutagen.flac import FLAC
 from flacfile import FLACFile
+from lib import get_path_from_config
 
 
 def main():

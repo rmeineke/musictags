@@ -2,13 +2,12 @@ import os
 import logging
 import sys
 from mutagen.flac import FLAC
-from flacfile import FLACFile
+from flacfile \
+    import FLACFile
 
 
-def get_path_from_config():
-    with open('config.ini', 'r') as cfg:
-        path = cfg.readline()
-        return path
+# from lib.utils import get_path_from_config
+from lib import utils
 
 
 def main():
@@ -31,8 +30,7 @@ def main():
     logger = logging.getLogger(__name__)
     logger.debug('Entering main')
 
-    path = get_path_from_config()
-    # path = '/home/robertm/music'
+    path = utils.get_path_from_config()
     if len(path) < 8:
         print(f'seems to be something wrong here: {path}')
         exit(1)
