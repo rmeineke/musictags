@@ -40,8 +40,6 @@ def main():
     else:
         path = path.strip()
 
-    # path = '/home/robertm/programming/musictags/music'
-    # # path = '/home/robertm/music'
     for root, dirs, files in os.walk(path):
         for file in files:
             if file.lower().endswith('.mp3'):
@@ -54,7 +52,6 @@ def main():
                 pic_not_found = True
                 tags = mutagen.mp3.Open(f)
                 for i in tags:
-                    # print(f'{type(i)} -- {i}')
                     if i.startswith('APIC'):
                         pic_not_found = False
                         if tags[i].mime == "image/png":

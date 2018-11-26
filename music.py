@@ -6,18 +6,24 @@ import sys
 
 
 def get_metadata_from_file(file, filetype):
-    # print(f'inside get_metadata_from_file')
-    # print(f'{file}')
-    # print(f'type: {filetype}')
     if filetype == '.mp3':
-        # print(f'checking an mp3 file')
         meta = ID3(file)
         artist = meta['TPE1']
         band = meta['TPE2']
         track_title = meta['TIT2']
-        album_title = meta['TALB']
+        album_title = meta['TALB'][0]
         track_num = meta['TRCK']
-        pic_data = meta['APIC']
+        if len(meta.getall("APIC")) > 0:
+            for item in meta.getall("APIC"):
+                pic_type = item.mime
+                pic_data = item.data
+        else:
+            print('----------------------------------------------------------------------------------------')
+            print(f'{file}')
+            print('has no picture >>>>>>>>>>>')
+            pic_type = 'EMPTY'
+            pic_data = ''
+
     else:
         # print(f'checking a flac file')
         mutobj = File(file, easy=True)
@@ -29,15 +35,16 @@ def get_metadata_from_file(file, filetype):
         var = FLAC(file)
         pics = var.pictures
         if len(pics) == 0:
-            print('----------------------------------------------------')
+            print('----------------------------------------------------------------------------------------')
             print(f'{file}')
             print('has no picture >>>>>>>>>>>')
-            print('----------------------------------------------------')
+            pic_type = 'EMPTY'
             pic_data = ''
         else:
+            pic_type = pics[0].mime
             pic_data = pics[0].data
 
-    return Track(file, artist, band, track_title, album_title, track_num, pic_data)
+    return Track(file, artist, band, track_title, album_title, track_num, pic_type, pic_data)
 
 
 def get_artist_from_file(file, filetype):
