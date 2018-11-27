@@ -55,9 +55,9 @@ class Track:
         title = self.__album_title
         title = title.replace(' ', '_')
         title = title.replace('/', '_')
-        fn = '/home/robertm/Desktop/mut/' + title + '. ' + random_id(4) + '.jpg'
+        fn = '/home/robertm/Desktop/mut/' + title + '.' + random_id(4) + '.jpg'
         if size < 100:
-            fn = '/home/robertm/Desktop/mut/' + title + '. ' + random_id(4) + '.png'
+            fn = '/home/robertm/Desktop/mut/' + title + '.' + random_id(4) + '.png'
             copyfile('x.png', fn)
             return
         with open(fn, 'wb') as output:

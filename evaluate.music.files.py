@@ -5,8 +5,8 @@ from lib.utils import get_path_from_config
 
 
 def main():
-
     path = get_path_from_config()
+    path = path.strip()
     for root, dirs, files in os.walk(path):
         for file in files:
             f = os.path.join(root, file)
