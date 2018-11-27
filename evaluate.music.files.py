@@ -7,6 +7,20 @@ from lib.utils import get_path_from_config
 def main():
     path = get_path_from_config()
     path = path.strip()
+
+    stray_files = '00_stray_files.txt'
+    key_errors = '00_key_errors.txt'
+    try:
+        os.remove(stray_files)
+    except FileNotFoundError as e:
+        print(f'strays file not found ... this should continue\n{e}')
+
+    try:
+        os.remove(key_errors)
+    except FileNotFoundError as e:
+        print(f'key error file not found ... this should continue\n{e}')
+
+
     for root, dirs, files in os.walk(path):
         for file in files:
             f = os.path.join(root, file)
@@ -20,7 +34,7 @@ def main():
                         f_obj.write(f'{f}\n\t{e}\n')
             else:
                 with open('00_stray_files.txt', 'a') as f_obj:
-                    f_obj.write(f"I don't know what to do with this:\n\t{f}\n")
+                    f_obj.write(f"STRAY: {f}\n")
 
     print(f'---------------------------------------------------------------------------')
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')

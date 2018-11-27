@@ -18,14 +18,11 @@ def get_metadata_from_file(file, filetype):
                 pic_type = item.mime
                 pic_data = item.data
         else:
-            print('----------------------------------------------------------------------------------------')
-            print(f'{file}')
-            print('has no picture >>>>>>>>>>>')
+            print(f'NO PIC: {file}')
             pic_type = 'EMPTY'
             pic_data = ''
 
     else:
-        # print(f'checking a flac file')
         mutobj = File(file, easy=True)
         artist = mutobj["albumartist"][0]
         band = mutobj["artist"][0]
@@ -35,9 +32,7 @@ def get_metadata_from_file(file, filetype):
         var = FLAC(file)
         pics = var.pictures
         if len(pics) == 0:
-            print('----------------------------------------------------------------------------------------')
-            print(f'{file}')
-            print('has no picture >>>>>>>>>>>')
+            print(f'NO PIC: {file}')
             pic_type = 'EMPTY'
             pic_data = ''
         else:
@@ -50,7 +45,6 @@ def get_metadata_from_file(file, filetype):
 def get_artist_from_file(file, filetype):
     if filetype == 'mp3':
         meta = ID3(file)
-        #print(meta['TIT2'])
         return meta['TPE1']
     else:
         mutobj = File(file, easy=True)
