@@ -1,4 +1,8 @@
 import os
+import sys
+
+import logbook as logbook
+
 from music import get_metadata_from_file
 from track import Track
 from lib.utils import get_path_from_config
@@ -19,7 +23,6 @@ def main():
         os.remove(key_errors)
     except FileNotFoundError as e:
         print(f'key error file not found ... this should continue\n{e}')
-
 
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -45,5 +48,19 @@ def main():
     print(f'ttl_oversized_covers: {Track.ttl_oversized_covers}')
 
 
+def init_logging(filename: str = None):
+    level = logbook.TRACE
+
+    if filename:
+        logbook.TimedRotatingFileHandler(filename, level=level).push_application()
+    else:
+        logbook.StreamHandler(sys.stdout, level=level).push_application()
+
+    msg = 'Logging initialized.'
+    logger = logbook.Logger(f'Startup. Level: {level}')
+    logger.notice(msg)
+
+
 if __name__ == '__main__':
+    init_logging()
     main()
