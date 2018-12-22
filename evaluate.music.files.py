@@ -27,7 +27,7 @@ def main():
         for file in files:
             f = os.path.join(root, file)
             _, filetype = os.path.splitext(f)
-            if f.lower().endswith('.flac') or f.lower().endswith('.mp3'):
+            if filetype == '.flac' or filetype == '.mp3':
                 try:
                     track = get_metadata_from_file(f, filetype)
                     Track.extract_image(track)
