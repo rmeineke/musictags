@@ -5,7 +5,7 @@ import logbook as logbook
 
 from music import get_metadata_from_file
 from track import Track
-from lib.utils import get_path_from_config
+from lib.utils import get_path_from_config, cleanup_logfile
 
 
 def main():
@@ -13,16 +13,15 @@ def main():
     path = path.strip()
 
     stray_files = '00_stray_files.txt'
+    cleanup_logfile(stray_files)
     key_errors = '00_key_errors.txt'
-    try:
-        os.remove(stray_files)
-    except FileNotFoundError as e:
-        print(f'strays file not found ... this should continue\n{e}')
-
-    try:
-        os.remove(key_errors)
-    except FileNotFoundError as e:
-        print(f'key error file not found ... this should continue\n{e}')
+    cleanup_logfile(key_errors)
+    oversized_covers = '00_oversized_covers.txt'
+    cleanup_logfile(oversized_covers)
+    no_covers = '00_no_covers.txt'
+    cleanup_logfile(no_covers)
+    png_covers = '00_png_covers.txt'
+    cleanup_logfile(png_covers)
 
     for root, dirs, files in os.walk(path):
         for file in files:

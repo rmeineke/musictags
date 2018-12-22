@@ -3,6 +3,7 @@ import sys
 
 import random
 from shutil import copyfile
+from lib.utils import write_to_logfile
 
 
 def random_id(length):
@@ -34,9 +35,10 @@ class Track:
 
         if sys.getsizeof(self.__pic_data) > 150000:
             Track.ttl_oversized_covers += 1
-
+            write_to_logfile('00_oversized_covers.txt', f'OVERSIZED: {self.__file}')
         if self.__pic_type == 'image/png':
             Track.ttl_png_covers += 1
+            write_to_logfile('00_png_covers.txt', f'PNG COVER: {self.__file}')
         elif self.__pic_type == 'EMPTY':
             Track.ttl_empty_covers += 1
         Track.ttl_files_processed += 1
@@ -51,7 +53,6 @@ class Track:
 
     def extract_image(self):
         size = sys.getsizeof(self.__pic_data)
-        # pic_type = self.__pic_type
         title = self.__album_title
         title = title.replace(' ', '_')
         title = title.replace('/', '_')
