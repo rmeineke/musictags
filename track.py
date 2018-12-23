@@ -35,12 +35,15 @@ class Track:
 
         if sys.getsizeof(self.__pic_data) > 150000:
             Track.ttl_oversized_covers += 1
-            write_to_logfile('00_oversized_covers.txt', f'OVERSIZED: {self.__file}')
+            write_to_logfile('00_errors.txt', f'OVERSIZED COVER:', f'{self.__file}')
+
         if self.__pic_type == 'image/png':
             Track.ttl_png_covers += 1
-            write_to_logfile('00_png_covers.txt', f'PNG COVER: {self.__file}')
+            write_to_logfile('00_errors.txt', f'PNG COVER:', f'{self.__file}')
         elif self.__pic_type == 'EMPTY':
             Track.ttl_empty_covers += 1
+            write_to_logfile('00_errors.txt', f'NO COVER:', f'{self.__file}')
+
         Track.ttl_files_processed += 1
         Track.ttl_file_size += os.path.getsize(file)
 
@@ -61,8 +64,9 @@ class Track:
             fn = '/home/robertm/Desktop/mut/' + title + '.' + random_id(4) + '.png'
             copyfile('x.png', fn)
             return
-        with open(fn, 'wb') as output:
-            try:
-                output.write(self.__pic_data)
-            except TypeError as e:
-                print(f'{e}')
+        elif size > 150000:
+            with open(fn, 'wb') as output:
+                try:
+                    output.write(self.__pic_data)
+                except TypeError as e:
+                    print(f'{e}')

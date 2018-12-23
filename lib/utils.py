@@ -11,9 +11,9 @@ def cleanup_logfile(file):
     try:
         os.remove(file)
     except FileNotFoundError as e:
-        print(f'{file} not found ... this should continue\n{e}')
+        print(f'{file} not found ... this should continue')
 
 
-def write_to_logfile(file, string):
-    with open(file, 'w') as log:
-        log.write(string)
+def write_to_logfile(file, error_type, string):
+    with open(file, 'a') as log:
+        log.write(f'{error_type:20s}{string}\n')
