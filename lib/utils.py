@@ -7,7 +7,7 @@ def get_path_from_config():
         return path
 
 
-def cleanup_logfile(file):
+def remove_logfile(file):
     try:
         os.remove(file)
     except FileNotFoundError as e:

@@ -5,7 +5,7 @@ import logbook as logbook
 
 from music import get_metadata_from_file
 from track import Track
-from lib.utils import get_path_from_config, cleanup_logfile, write_to_logfile
+from lib.utils import get_path_from_config, remove_logfile, write_to_logfile
 
 
 def main():
@@ -15,7 +15,7 @@ def main():
     # streamlining down to a single file .... 5 was getting a little awkward
     config_files = ['00_errors.txt']
     for f in config_files:
-        cleanup_logfile(f)
+        remove_logfile(f)
 
     for root, dirs, files in os.walk(path):
         for file in files:
