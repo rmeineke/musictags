@@ -2,7 +2,6 @@ from mutagen.id3 import ID3
 from mutagen import File
 from mutagen.flac import FLAC
 from track import Track
-from lib.utils import write_to_logfile
 
 
 def get_metadata_from_file(file, filetype):
@@ -18,7 +17,6 @@ def get_metadata_from_file(file, filetype):
                 pic_type = item.mime
                 pic_data = item.data
         else:
-            write_to_logfile('00_errors.txt', f'NO PIC:', f'{file}')
             pic_type = 'EMPTY'
             pic_data = ''
     else:
@@ -31,7 +29,6 @@ def get_metadata_from_file(file, filetype):
         var = FLAC(file)
         pics = var.pictures
         if len(pics) == 0:
-            write_to_logfile('00_errors.txt', f'NO PIC:', f'{file}')
             pic_type = 'EMPTY'
             pic_data = ''
         else:
