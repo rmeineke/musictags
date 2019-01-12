@@ -36,7 +36,17 @@ def main():
     print(f'ttl_png_covers: {Track.ttl_png_covers}')
     print(f'ttl_empty_covers: {Track.ttl_empty_covers}')
     print(f'ttl_oversized_covers: {Track.ttl_oversized_covers}')
-
+    print(f'-- OVERSIZED --------------------------------')
+    Track.oversized_cover_list.sort()
+    print(f'{Track.oversized_cover_list}')
+    print(f'-- OVERSIZED --------------------------------')
+    print(f'\t{len(Track.oversized_cover_list)}')
+    print(f'-- EMPTY --------------------------------')
+    Track.empty_cover_list.sort()
+    print(f'{Track.empty_cover_list}')
+    print(f'-- EMPTY --------------------------------')
+    print(f'\t{len(Track.empty_cover_list)}')
+    print(f'----------------------------------')
 
 def init_logging(filename: str = None):
     level = logbook.TRACE

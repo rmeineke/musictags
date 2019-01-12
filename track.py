@@ -23,6 +23,7 @@ class Track:
     ttl_png_covers = 0
     ttl_empty_covers = 0
     empty_cover_list = []
+    oversized_cover_list = []
 
     def __init__(self, file, artist, band, track_title, album_title, track_num, pic_type, pic_data):
         self.__file = file
@@ -34,16 +35,23 @@ class Track:
         self.__pic_type = pic_type
         self.__pic_data = pic_data
 
-        if sys.getsizeof(self.__pic_data) > 150000:
+        pic_size = sys.getsizeof(self.__pic_data)
+        pic_source = f'{self.__band} -- {self.__album_title}'
+        if pic_size > 150000:
             Track.ttl_oversized_covers += 1
-            write_to_logfile('00_errors.txt', f'OVERSIZED COVER:', f'{self.__file}')
+            if pic_source not in Track.oversized_cover_list:
+                Track.oversized_cover_list.append(pic_source)
+        elif pic_size < 500:
+            Track.ttl_empty_covers += 1
+            if pic_source not in Track.empty_cover_list:
+                Track.empty_cover_list.append(pic_source)
 
         if self.__pic_type == 'image/png':
             Track.ttl_png_covers += 1
             write_to_logfile('00_errors.txt', f'PNG COVER:', f'{self.__file}')
-        elif self.__pic_type == 'EMPTY':
-            Track.ttl_empty_covers += 1
-            write_to_logfile('00_errors.txt', f'NO COVER:', f'{self.__file}')
+        # elif self.__pic_type == 'EMPTY':
+        #     Track.ttl_empty_covers += 1
+        #     write_to_logfile('00_errors.txt', f'NO COVER:', f'{self.__file}')
 
         Track.ttl_files_processed += 1
         Track.ttl_file_size += os.path.getsize(file)
