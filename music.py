@@ -5,6 +5,8 @@ from track import Track
 
 
 def get_metadata_from_file(file, filetype):
+    pic_type = 'EMPTY'
+    pic_data = ''
     if filetype == '.mp3':
         meta = ID3(file)
         artist = meta['TPE1']
@@ -25,7 +27,7 @@ def get_metadata_from_file(file, filetype):
         band = mutobj["artist"][0]
         track_title = mutobj["title"][0]
         album_title = mutobj["album"][0]
-        track_num =  mutobj["tracknumber"][0]
+        track_num = mutobj["tracknumber"][0]
         var = FLAC(file)
         pics = var.pictures
         if len(pics) == 0:

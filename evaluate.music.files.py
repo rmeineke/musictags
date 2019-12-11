@@ -5,17 +5,17 @@ import logbook as logbook
 
 from music import get_metadata_from_file
 from track import Track
-from lib.utils import get_path_from_config, remove_logfile, write_to_logfile
+import lib.utils
 
 
 def main():
-    path = get_path_from_config()
+    path = lib.utils.get_path_from_config()
     path = path.strip()
 
     # streamlining down to a single file .... 5 was getting a little awkward
     config_files = ['00_errors.txt']
     for f in config_files:
-        remove_logfile(f)
+        lib.utils.remove_logfile(f)
 
     for root, dirs, files in os.walk(path):
         for file in files:
@@ -26,9 +26,9 @@ def main():
                     track = get_metadata_from_file(f, filetype)
                     Track.extract_image(track)
                 except KeyError as e:
-                    write_to_logfile('00_errors.txt', f'KEY ERROR: {e}', f'{f}')
+                    lib.utils.write_to_logfile('00_errors.txt', f'KEY ERROR: {e}', f'{f}')
             else:
-                write_to_logfile('00_errors.txt', f'STRAY FILE:', f'{f}')
+                lib.utils.write_to_logfile('00_errors.txt', f'STRAY FILE:', f'{f}')
 
     print(f'ttl_tracks_processed: {Track.ttl_files_processed}')
     print(f'ttl_file_size: {Track.ttl_file_size:,}')
@@ -47,6 +47,7 @@ def main():
     print(f'-- EMPTY --------------------------------')
     print(f'\t{len(Track.empty_cover_list)}')
     print(f'----------------------------------')
+
 
 def init_logging(filename: str = None):
     level = logbook.TRACE
