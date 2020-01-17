@@ -10,4 +10,6 @@ __pycache__
 00_*
 config.ini
 venv/
-.vscode/    
+.vscode/  
+Pipfile
+Pipfile.lock  
